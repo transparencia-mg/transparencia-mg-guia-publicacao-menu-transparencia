@@ -9,10 +9,10 @@ A divulgação de dados e informações de forma espontânea relativas à Lei de
 
 Sugestões de localização do link:
 
-![](static\imagem_2.png)
+![](static/imagem_2.png)
 
 
-![](static\imagem_1.png)
+![](static/imagem_1.png)
 
 O menu Transparência deverá compor, no mínimo, os itens especificados a seguir:
 
