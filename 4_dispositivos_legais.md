@@ -1,3 +1,3 @@
 # DISPOSITIVOS LEGAIS
 
-![](static\quadro_guia.png)
+![](static/quadro_guia.png)
