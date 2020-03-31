@@ -5,42 +5,45 @@ output:
 ---
 # ORGANIZAÇÃO DOS CONTEÚDOS
 
-A divulgação de dados e informações de forma espontânea relativas à Lei de Acesso à Informação deve ser feita em seção específica denominada *Transparência*, disponível na **página inicial** dos sítios institucionais dos órgãos e entidades.
+A divulgação de dados e informações de forma espontânea relativas à Lei de Acesso à Informação deve ser feita em seção específica denominada *Transparência*, e disponibilizada na **página inicial** dos sítios institucionais dos órgãos e entidades. 
 
-Sugestões de localização do link:
+A nomenclatura e a disposição dos itens do botão **Transparência** devem seguir o que se segue:
 
-![](static/imagem_2.png)
-
-
-![](static/imagem_1.png)
-
-O menu Transparência deverá compor, no mínimo, os itens especificados a seguir:
-
-- O que é
+- Serviço de Acesso à Informação
 
 -	Informações Classificadas e Desclassificadas
+
+- Perguntas Frequentes
 
 -	Ações e Programas
 
 -	Receitas e Despesas
 
--	Licitações e Contratos
+-	Compras e Contratos
 
--	Convênios e parcerias de saída de recursos
+- Obras Públicas
 
--	Convênios de entrada de recursos
+-	Convênios, Repasses e Transferências
 
-- Obras
+- Doações, Comodatos e Cooperações
 
--	Servidores
+-	Pessoal
 
 -	Concursos Públicos
 
 -	Dados Abertos
 
+- Participação Social
 
-Destaca-se que, além dos itens obrigatórios, o menu *Transparência* poderá contemplar outros assuntos que sejam muito demandados. 
+Os órgãos e entidades deverão seguir a estrutura estabelecida para o botão **Transparência**, com o objetivo de criar um local único e padronizado que concentre as informações mínimas e necessárias de modo a facilitar a localização da informação pelo cidadão.
 
-Este guia contém sugestões de textos, elaborados com o objetivo de auxiliar as Controladorias Setoriais e Seccionais dos órgãos/entidades quanto à disponibilização de dados ativamente, bem como dos links correspondentes a cada consulta. Salienta-se que os links devem ser atualizados sempre que ocorrerem alterações no portal de origem.
+Todos os itens obrigatório devem ser criados, ainda que não haja conteúdo a ser divulgado. Nesse caso, deve-se criar o item e nele informar, de maneira explícita, que não há, até o momento, conteúdo a ser publicado. 
 
+Serão apresentados para cada seção do botão:
+- Objetivos
+- Impactos desejados
+- Legislação
+- Frequência de atualização
+- Texto Padrão
 
+Este guia deve ser utilizado junto com o*checklist* a ser disponibilizado pela Controladoria Geral do Estado, por meio da Subcontroladoria de Transparência e Integridade.
