@@ -29,7 +29,7 @@ Sugestão:
 
 Sugestão de localização do link: 
 
-![](S:/SCT\Diretoria_Transparencia_Ativa_DTA\Transparencia_ativa_orgaos_entidades\Avaliacao_Menu_Transparencia_Sitios_Institucionais\Guia_Publicacao_Sitios\Guia_rmarkdown\imagem_1.png)
+![](static/imagem_1.png)
 
 
 ## Informações classificadas e desclassificadas
