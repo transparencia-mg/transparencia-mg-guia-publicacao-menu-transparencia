@@ -1,6 +1,6 @@
 # INTRODUÇÃO
 
-Este guia tem por objetivo auxiliar os órgãos e entidades do Poder Executivo Estadual sobre as normas de divulgação espontânea de dados e informações, segundo o que foi previsto na Lei Federal nº 12.527/2011, no Decreto Estadual nº 45.969/2012 e também na Resolução SEPLAG nº 29/2016.
+Este guia tem como objetivo auxiliar os órgãos e entidades do Poder Executivo Estadual na implementação do Botão Transparência, segundo o que foi previsto, sobretudo, no art. 8º, inc. VI do Decreto Estadual nº 45.969/2012 e também no art. 9º, inc II, alínea G da Resolução SEPLAG nº 29/2016.
 
 A Lei Federal nº 12.527, de 18 de novembro 2011, conhecida como Lei de Acesso à Informação (LAI), que regula o acesso a informações previsto na Constituição Federal de 1988, estabelece no art. 8º que **"É dever dos órgãos e entidades públicas promover, independentemente de requerimentos, a divulgação em local de fácil acesso, no âmbito de suas competências, de informações de interesse coletivo ou geral por eles produzidas ou custodiadas".**
 
