@@ -424,50 +424,51 @@ governamentais.
 >
 > O Estado de Minas Gerais, por meio do [Portal Dados Abertos](http://www.transparencia.mg.gov.br/dados-abertos) disponibiliza a sociedade as bases de dados em formato aberto, os quais podem ser utilizados, modificados e compartilhados.
 
+## 3.15 Participação Social
+
+### a)	Objetivo: 
+- Criar um local único e padronizado que concentre as informações sobre participação social.
+
+### b)	Impactos Esperados:
+- Fomentar o diálogo com a população e promover a participação social.
+- Permitir a participação da sociedade na construção de políticas públicas.
+
+### c)	Legislação:
+- Lei Federal nº 12.527/2011 – art. 9º, inc. II;
+- Decreto Estadual nº 45.969/2012 – art. 14, §6º.
+
+### d)	Frequência de atualização:
+-	Periodicamente, sempre que surgirem novas informações sobre participação social.
+
+### e)	Texto Padrão:
+
+> Conheça os espaços existentes e as atividades desenvolvidas pelo(a) (NOME DO ÓRGÃO OU ENTIDADE) para fomentar o diálogo com a população e a participação social na construção das políticas públicas.
+>
+> Tópicos que podem ser incluídos nessa seção, de acordo com as especificidades de cada órgão/entidade:
+>
+> - Conselhos e Órgãos colegiados
+> - Conferências
+> - Audências Públicas
+> - Consultas Públicas
+> - Fundos Vinculados
+> - Ações de promoção da Cidadania
 
 **TÓPICO DE DIVULGAÇÃO OPCIONAL**
 
-## Convênios de Entrada de Recursos
+## 3.16 Convênios de Entrada de Recursos
 
-Deverá ser inserido nessa seção o link para a consulta ao Portal da Transparência com informações referentes aos convênios de entrada de recursos no Estado.
+### a)	Texto Padrão:
 
-Sugestão:
+> Nesta seção são disponibilizadas informações referentes à transferência de recursos públicos para os órgão e entidades do Estado de Minas Gerais por meio de convênios de entrada.
+>
+> - Acesse os [Convênios de Entrada de Recursos](http://www.transparencia.mg.gov.br/convenios/convenio-entrada), incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 
-- *Nesta seção são disponibilizadas informações referentes à transferência de recursos públicos para os órgão e entidades do Estado de Minas Gerais por meio de convênios de entrada.*
+## 3.17 Bens e Serviços
 
-- *Acesse os [Convênios de Entrada de Recursos](http://www.transparencia.mg.gov.br/convenios/convenio-entrada), incluindo os do (a) <nome do órgão ou entidade>.*
+### a)	Texto Padrão:
 
-
-**OBSERVAÇÃO:**  Na ausência de convênios de entrada de recursos, o órgão ou entidade deverá informar que no momento não existe conteúdo a ser publicado e direcionar para a consulta “Convênios de Entrada de Recursos” do Portal da Transparência.
-
-**b)	Patrimônio mobiliário e frota:** segue sugestão de conteúdo para caso o órgão ou entidade tenha interesse em divulgar informações sobre a frota e o patrimônio mobiliário.
-
-Sugestão:
-
-- *Nesta seção são disponibilizados dados da frota e do patrimônio mobiliário do Estado, incluindo os do (a) <nome do órgão ou entidade>.*
-
-- *Acesse o [Patrimônio Mobiliário] do Estado (http://www.transparencia.mg.gov.br/compras-e-patrimonio/patrimonio) Mobiliário do Estado.*
-
-- *Acesse a [Frota Ativa] do Estado (http://www.transparencia.mg.gov.br/compras-e-patrimonio/gestao-de-frota) ativa do Estado.*
-
-**e)	Proposta Orçamentária e Lei Orçamentaria:** deverá ser inserido texto introdutório sobre a consulta Planejamento e Resultados, disponibilizada no Portal da Transparência.
-
-Sugestão:
-
-- **Proposta Orçamentaria e Lei Orçamentária:** *neste item são detalhadas despesas estaduais propostas e orçadas, os créditos suplementares, as obras orçadas por exercício e as emendas parlamentares estaduais. Acesse os dados e informações acerca do [orçamento](http://www.transparencia.mg.gov.br/planejamento-e-resultados/proposta-lei-orcamentaria), incluindo a do (a) <nome do órgão ou entidade>.*
-
-
-**f) Obras:** deverão ser listadas todas as obras executadas pelo próprio órgão ou entidade e/ou pelo Departamento de Edificações e Estradas de Rodagem de Minas Gerais (DEER).
-
-Sugestão:
-
-- **Obras:** *encontre as informações sobre as obras executadas pelo próprio <nome do órgão ou entidade> e/ou pelo Departamento de Edificações e Estradas de Rodagem de Minas Gerais (DEER).*
-
-- **Obras executadas pelo DEER:** *Acesse as [obras](http://www.deop.mg.gov.br/images/relatorio/obras-em-andamento.pdf) do (a) <nome do órgão ou entidade> executadas por meio do Departamento de Edificações e Estradas de Rodagem de Minas Gerais (DEER).*
-
-- **Obras executadas pelo <nome do órgão ou entidade>:** *Acesse as [obras] executadas pelo (a) <nome do órgão ou entidade> ou outros parceiros.*
-(*O órgão ou entidade deverá listar na própria seção ou em documento linkado dados e informações que permita o acompanhamento*).
-
-- **Obras orçadas por exercício:** *Acesse os dados das [obras previstas](http://www.transparencia.mg.gov.br/planejamento-e-resultados/proposta-lei-orcamentaria/obras-orcadas) na Lei Orçamentária, incluindo as do <nome do órgão ou entidade>.
-
-**OBSERVAÇÃO:** Na ausência de obras executadas pelo próprio órgão ou entidade **e/ou** pelo Departamento de Edificações e Estradas de Rodagem de Minas Gerais, o órgão ou entidade deve informar que no momento não existe conteúdo a ser publicado e direcionar para a consulta “correta” do Portal da Transparência.
+> Nesta seção são disponibilizados dados da frota de veículos terrestres que estão a serviço do Estado, incluindo informações sobre a manutenções e abastecimentos desses veículos e também informações sobre o patrimônio mobiliário do Estado, incluindo os bens que se encontram em uso ou não, podendo as consultas serem realizadas por órgão ou entidade.
+> 
+> - Acesse a listagem dos [Bens Móveis](http://www.transparencia.mg.gov.br/compras-e-patrimonio/patrimonio) do Estado de Minas Gerais.
+>
+> - Acesse a [Frota](http://www.transparencia.mg.gov.br/compras-e-patrimonio/gestao-de-frota) do Estado de Minas Gerais.
