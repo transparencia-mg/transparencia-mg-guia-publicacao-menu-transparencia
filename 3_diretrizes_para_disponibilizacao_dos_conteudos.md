@@ -1,14 +1,14 @@
-# DIRETRIZES PARA DISPONIBILIZAÇÃO DOS CONTEÚDOS
+# 3. DIRETRIZES PARA DISPONIBILIZAÇÃO DOS CONTEÚDOS
 
-Todos os itens constantes do menu **Transparência**  deverão conter um texto explicativo. As sugestões de textos apresentadas poderão ser utilizadas pelos órgãos e entidades que assim desejarem.
+Todos os itens constantes do menu ***Transparência***  deverão conter um texto explicativo. As sugestões de textos apresentadas poderão ser utilizadas pelos órgãos e entidades que assim desejarem.
 
-## 3.1	Botão Transparência 
+## 3.1	Menu Transparência 
 
 ### a)	Objetivo: 
 - criar um local único e padronizado que concentrem as informações mínimas e essenciais dos órgãos e entidades do Poder Executivo Estadual para divulgação de maneira ativa, sobretudo daquelas definidas em lei.
 
 ### b)	Impactos Esperados:
--	Diminuir demandas ativas de acesso à informação;
+-	Diminuir demandas de acesso à informação;
 -	Padronizar a interface de relacionamento com o cidadão;
 -	Aumentar a satisfação da sociedade com o fornecimento de informações íntegras e atualizadas;
 -	Aumentar o controle social.
@@ -48,9 +48,9 @@ Todos os itens constantes do menu **Transparência**  deverão conter um texto e
 
 > Nesta seção, são divulgadas informações sobre o Serviço de Informação ao Cidadão (e-SIC), pertinentes ao seu funcionamento, localização e dados de contato no âmbito do(a) (NOME DO ÓRGÃO OU ENTIDADE). 
 > 
-> Em Minas Gerais, os pedidos de informação são feitos por meio do Sistema Eletrônico de Acesso à Informação – [e-SIC](http://transparencia.mg.gov.br/planejamento-e-resultados), que permite a elaboração e o acompanhamento dos pedidos e recursos.
+> Em Minas Gerais, os pedidos de acesso à informação são feitos por meio do Sistema Eletrônico de Acesso à Informação – [e-SIC](http://www.acessoainformacao.mg.gov.br), que permite a solicitação e o acompanhamento dos pedidos e recursos.
 > 
-> Os pedidos também podem ser realizados por meio do telefone 155 (ligação gratuita), ou ainda presencialmente em qualquer [Posto Uai](http://www.planejamento.mg.gov.br/canais-de-atendimento-ao-cidadao/uais-unidades-de-atendimento-integrado/enderecos-das-uais).
+> As solicitações também podem ser realizadas por meio do telefone 155 (ligação gratuita), ou ainda presencialmente em qualquer [Posto Uai](http://www.planejamento.mg.gov.br/canais-de-atendimento-ao-cidadao/uais-unidades-de-atendimento-integrado/enderecos-das-uais).
 > 
 > Para acessar aos relatórios estatísticos com a quantidade de pedidos de acesso à informação recebidos, atendidos e indeferidos, assim como informações estatísticas agregadas, consulte os [Relatórios Gerenciais da Lei de Acesso à Informação](http://www.transparencia.mg.gov.br/o-que-e#relatórios-gerenciais-–-lei-de-acesso-à-informação).
 > 
@@ -83,7 +83,7 @@ Todos os itens constantes do menu **Transparência**  deverão conter um texto e
 > Espaço reservado para a divulgação das informações do(a) (NOME DO ÓRGÃO/ENTIDADE) classificadas ou desclassificadas nos graus de sigilo definidos no art. 24 da Lei nº 12.527/2011, em cumprimento ao disposto nos incisos I e II, do art. 45 do Decreto Federal nº 7.724/2012.
 > 
 > Acesse as informações classificadas e desclassificadas do(a) (NOME DO ÓRGÃO OU ENTIDADE)
-> - Link para documento elaborado pelo órgão ou entidade, conforme orientações da Diretoria de Transparência Passiva da Controladoria Geral do Estado.
+> - Link para documento elaborado pelo órgão ou entidade, conforme orientações da Diretoria Central de Transparência Passiva da Controladoria Geral do Estado.
 > 
 > - Na ausência de informações classificadas ou desclassificadas, o órgão ou entidade deverá informar que no momento não existe conteúdo a ser publicado.
 >
@@ -97,7 +97,7 @@ Todos os itens constantes do menu **Transparência**  deverão conter um texto e
 
 ### b)	Impactos Esperados:
 -	Permitir o acompanhamento por parte do cidadão dos programas e ações do órgão ou entidade, por meio da disponibilização das informações referentes aos programas e ações vigentes do órgão/entidade, assim como sobre os responsáveis pelos programas, e relatórios que permitam o acompanhamento de suas metas físicas e financeiras.
--	Informar ao cidadão dos instrumentos de planejamento: PPAG, LDO, LOA.
+-	Informar ao cidadão os instrumentos de planejamento: PPAG, LDO, LOA.
 
 ### c)	Legislação:
 -	Lei Federal nº 12.527/2011 – art. 8, §1º, inc. V;
@@ -112,7 +112,7 @@ Todos os itens constantes do menu **Transparência**  deverão conter um texto e
 
 ### e)	Texto Padrão:
 
-> Nesta seção são disponibilizadas as informações pertinentes aos programas e ações vigentes do(a) (NOME DO ÓRGÃO/ENTIDADE) no ano de XXXX, bem como os instrumentos de planejamento e orçamento do Governo do Estado de Minas Gerais: PPAG, LDO e LOA.
+> Nesta seção são disponibilizadas as informações dos programas e ações vigentes do(a) (NOME DO ÓRGÃO/ENTIDADE) no ano de XXXX, bem como os instrumentos de planejamento e orçamento do Governo do Estado de Minas Gerais: PPAG, LDO e LOA.
 > 
 > Acesse os dados e informações acerca dos [programas e ações](http://www.transparencia.mg.gov.br/planejamento-e-resultados/planejamento-e-monitoramento/programacao-execucao-ppag-programa/ppagprograma-programas/4/2019/0/0) vigentes no Estado de Minas Gerais, incluindo o do(a) (NOME DO ÓRGÃO/ENTIDADE).
 > 
@@ -149,22 +149,19 @@ Todos os itens constantes do menu **Transparência**  deverão conter um texto e
 
 > Nesta seção são disponibilizadas as informações sobre as obras públicas em andamento no(a) (NOME DO ÓRGÃO/ENTIDADE).
 > 
-> Obra nº xx - Objeto(informar o objeto da obra)
->
-> - Contrato nº XX/XXXX
-> - Termo Aditivo nº XX/XXXX
-> - Projeto Básico
-> - Projeto Executivo
-> - Relatório Trimestral nº XX
->
-> 
-> Obra nº xxx - Objeto(informar o objeto da obra)
->
-> - Contrato nº XX/XXXX (link para acesso ou pdf do documento)
-> - Termo Aditivo nº XX/XXXX (link para acesso ou pdf do documento)
-> - Projeto Básico (link para acesso ou pdf do documento)
-> - Projeto Executivo (link para acesso ou pdf do documento)
-> - Relatório Trimestral nº XX (link para acesso ou pdf do documento)
+
+>| Obra      |Objeto        |Contrato    |Termo Aditivo    |Projeto Básico| Projeto Executivo|Relatório Trimestral|
+>| --------- | ------------ | ---------- | --------------- |------------- | -----------------|--------------------|
+>|           |              |            |                 |              |                  |
+ 
+> Dados da Tabela:
+> - Obra (nº da obra) 
+> - Objeto (informar o objeto da obra)
+> - Contrato (número do contrato e link para acesso ao contrato)
+> - Termo Aditivo (número e link para acesso ao documento)
+> - Projeto Básico (link para acesso ao documento)
+> - Projeto Executivo (link para acesso ao documento)
+> - Relatório Trimestral (número e link para acesso ao relatório)
 
 
 ## 3.6 Despesas e receitas
@@ -212,7 +209,7 @@ Todos os itens constantes do menu **Transparência**  deverão conter um texto e
 
 ### d)	Frequência de atualização:
 -	Trimestralmente (janeiro, abril, julho, outubro) divulgar no sítio eletrônico do DETRAN/MG os valores arrecadados com multas de trânsito e a aplicação desses recursos;
-- Trimestralmente (janeiro, abril, julho, outubro) enviar a planilha em formato CSV para o e-mail transparencia@cge.mg.gov.br, para a Superintendência Central de Transparência para publicação em formato aberto. 
+- Trimestralmente (janeiro, abril, julho, outubro) enviar a planilha em formato CSV para o e-mail [transparencia@cge.mg.gov.br](), da Superintendência Central de Transparência para publicação no Portal de Dados Abertos. 
 
 ### e)	Texto Padrão:
 
@@ -235,7 +232,7 @@ Todos os itens constantes do menu **Transparência**  deverão conter um texto e
 
 ### d)	Frequência de atualização:
 -	Semestralmente, em junho e dezembro de cada ano: divulgar no sítio eletrônico da SEF/MG;
-- Semestralmente, em junho e dezembro de cada ano: enviar a planilha em formato CSV, para a Superintendência Central de Transparência para publicação em formato aberto (e-mail transparencia@cge.mg.gov.br). 
+- Semestralmente, em junho e dezembro de cada ano: enviar a planilha em formato CSV, para o e-mail [transparencia@cge.mg.gov.br](), da Superintendência Central de Transparência para publicação no Portal de Dados Abertos. 
 
 ### e)	Texto Padrão:
 
@@ -273,12 +270,10 @@ Todos os itens constantes do menu **Transparência**  deverão conter um texto e
 
 > Nesta seção são disponibilizadas informações relativas aos processos de compras estaduais para aquisição de materiais e serviços, bem como os contratos firmados entre o Estado e terceiros.
 > 
-> **Compras** 
+> **Compras e Contratos** 
 >
-> Acesse o Portal de Compras para participar dos [Procedimentos Licitatórios](http://compras.mg.gov.br/) em andamento no(a) (NOME DO ÓRGÃO OU ENTIDADE).
+> Acesse o Portal de Compras para confererir os [Procedimentos Licitatórios](http://compras.mg.gov.br/) em andamento no(a) (NOME DO ÓRGÃO OU ENTIDADE).
 > 
-> **Contratos**
->
 > Acesse os [processos de compras](http://www.transparencia.mg.gov.br/compras-e-patrimonio/compras-e-contratos) concluído pelo(a) (NOME DO ÓRGÃO OU ENTIDADE).
 > 
 > Consulte e emita o [Certificado de Regularidade]( https://www.cagef.mg.gov.br/fornecedor-web/br/gov/prodemge/seplag/fornecedor/publico/index.zul) para Participar de Licitações Públicas no âmbito do Poder Executivo do Estado de Minas Gerais.
@@ -335,7 +330,7 @@ Todos os itens constantes do menu **Transparência**  deverão conter um texto e
 > 
 > - Acesse os [Termos de Concessões – PPP](http://www.ppp.mg.gov.br/) realizados por meio de Parcerias Públicos Privadas, incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 > 
-> Acesse abaixo as transferências de recursos realizadas por meio de resoluções, termos de parceria e outros instrumentos congêneres que não constam das consulta de Convênios/Parcerias de Saída de Recursos do Portal da Transparência e da consulta de PPP:
+> Acesse abaixo as transferências de recursos realizadas por meio de resoluções, termos de parceria e outros instrumentos congêneres que não constam na consulta de Convênios/Parcerias de Saída de Recursos do Portal da Transparência e na consulta de PPP:
 > - O órgão ou entidade deverá disponibilizar o acesso aos documentos de transferências de recursos públicos realizadas pelo Estado, que não estejam disponíveis na consulta de Convênios de Saída do Portal da Transparência.
 
 
