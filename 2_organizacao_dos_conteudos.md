@@ -7,7 +7,7 @@ output:
 
 A divulgação de dados e informações de forma espontânea relativas à Lei de Acesso à Informação deve ser feita em seção específica denominada *Transparência*, e disponibilizada na **página inicial** dos sítios institucionais dos órgãos e entidades. 
 
-A nomenclatura e a disposição dos itens do botão **Transparência** devem seguir o que se segue:
+A nomenclatura e a disposição dos itens do menu **Transparência** devem seguir a estrutura abaixo :
 
 - Serviço de Acesso à Informação
 
@@ -35,15 +35,15 @@ A nomenclatura e a disposição dos itens do botão **Transparência** devem seg
 
 - Participação Social
 
-Os órgãos e entidades deverão seguir a estrutura estabelecida para o botão **Transparência**, com o objetivo de criar um local único e padronizado que concentre as informações mínimas e necessárias de modo a facilitar a localização da informação pelo cidadão.
+Os órgãos e entidades deverão seguir a estrutura estabelecida para o menu ***Transparência***, com o objetivo de criar um local único e padronizado que concentre as informações mínimas e necessárias de modo a facilitar a localização da informação pelo cidadão.
 
-Todos os itens obrigatório devem ser criados, ainda que não haja conteúdo a ser divulgado. Nesse caso, deve-se criar o item e nele informar, de maneira explícita, que não há, até o momento, conteúdo a ser publicado. 
+Todos os itens obrigatórios devem ser criados, ainda que não haja conteúdo a ser divulgado. Nesse caso, deve-se criar o item e nele informar, de maneira explícita, que não há, até o momento, conteúdo a ser publicado. 
 
-Serão apresentados para cada seção do botão:
+Serão apresentados para cada seção do menu:
 - Objetivos
 - Impactos desejados
 - Legislação
 - Frequência de atualização
 - Texto Padrão
 
-Este guia deve ser utilizado junto com o*checklist* a ser disponibilizado pela Controladoria Geral do Estado, por meio da Subcontroladoria de Transparência e Integridade.
+Este guia deve ser utilizado junto com o ***checklist*** a ser disponibilizado pela Controladoria Geral do Estado, por meio da Subcontroladoria de Transparência e Integridade.
