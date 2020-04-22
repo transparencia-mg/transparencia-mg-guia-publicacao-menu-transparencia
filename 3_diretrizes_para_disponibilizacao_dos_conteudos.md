@@ -281,7 +281,7 @@ Todos os itens constantes do menu ***Transparência***  deverão conter um texto
 ## 3.10	PROCEDIMENTOS LICITATÓRIOS ENVIADOS PARA O TCE/MG (TÓPICO ESPECÍFICO)
 
 ### a)	Objetivo: 
--	Cumprir o disposto no art. 1º da Lei Estadual nº 23.569/2010, que determina a publicação em sítio eletrônico do órgão ou entidade dos atos administrativos e documentos relativos a procedimentos licitatórios que, por determinação legal ou decisão específica do Tribunal de Contas a estes devam ser encaminhados.
+-	Cumprir o disposto no art. 1º da Lei Estadual nº 23.569/2020, que determina a publicação em sítio eletrônico do órgão ou entidade dos atos administrativos e documentos relativos a procedimentos licitatórios que, por determinação legal ou decisão específica do Tribunal de Contas a estes devam ser encaminhados.
 
 ### b)	Impactos Esperados:
 -	Permitir o acompanhamento pela sociedade dos procedimentos licitatórios enviados ao TCE/MG.
