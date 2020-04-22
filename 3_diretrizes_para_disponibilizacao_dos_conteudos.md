@@ -12,9 +12,9 @@ Sugestão:
 
 - *Em Minas Gerais, os pedidos de informação são feitos por meio do Sistema Eletrônico de Acesso à Informação - e-SIC, que permite a elaboração e o acompanhamento dos pedidos e recursos.*
 
-*Para maiores informações da Lei de Acesso à Informação e de sua regulamentação no âmbito do Estado de Minas Gerais acesse o Portal da Transparência.* <http://www.transparencia.mg.gov.br/>
+*Para maiores informações sobre a Lei de Acesso à Informação e sua regulamentação no âmbito do Estado de Minas Gerais, acesse o Portal da Transparência.* <http://www.transparencia.mg.gov.br/>
 
-*Para realizar sua solicitação de acesso à informação, clique no E-SIC.*
+*Para realizar sua solicitação de acesso à informação, acesse o E-SIC.*
 <http://www.transparencia.mg.gov.br/acessoainformacao>
 
 
@@ -40,7 +40,7 @@ Nesse item deverá ser inserido texto introdutório sobre a classificação e de
 
 Sugestão:
 
-- *As informações sigilosas são classificadas pelos órgãos e entidades quanto ao grau do sigilo, conforme orientações do Decreto nº 45.969/2012. Devem ser disponibilizadas todas as informações classificadas em cada grau de sigilo e aquelas desclassificadas atualizada nos últimos 12 meses.*
+- *As informações sigilosas são classificadas pelos órgãos e entidades quanto ao grau do sigilo, conforme orientações do Decreto nº 45.969/2012. Deve ser disponibilizada listagem atualizada nos últimos 12 meses, que contenha todas as informações classificadas em cada grau de sigilo e aquelas desclassificadas .*
 
 
 **b)	Informações Classificadas e Desclassificadas: **
@@ -54,17 +54,17 @@ Sugestão:
 
 
 
-Na ausência de informações classificadas ou desclassificadas, o órgão ou entidade deverá informar que no momento não existe conteúdo a ser publicado.
+Na ausência de informações classificadas ou desclassificadas, o órgão ou entidade deverá informar que, no momento, não existe conteúdo a ser publicado.
 
 Sugestão:
 
-- *O (a) <nome do órgão/entidade> não teve informações classificadas ou desclassificadas nos graus de sigilo reservada, secreta e ultrassecreta, definidos no art. 23 da Lei Federal nº 12.527/11 (Lei de Acesso à Informação).*
+- *O (a) <nome do órgão/entidade> não teve, nos doze últimos meses, informações classificadas ou desclassificadas nos graus de sigilo reservada, secreta e ultrassecreta, definidos no art. 23 da Lei Federal nº 12.527/11 (Lei de Acesso à Informação).*
 
 
 
 ## Programas e ações
 
-Nesse item deverá ser divulgado todos os instrumentos de planejamento, bem como a relação dos programas e ações do órgão ou entidade juntamente com informações que permita o seu acompanhamento.
+Nesse item deverão ser divulgados todos os instrumentos de planejamento, incluindo a relação dos programas e ações do órgão ou entidade com informações que permitam o seu acompanhamento.
 
 Sugestão:
 
@@ -74,15 +74,15 @@ Sugestão:
 
 **a)	Programas e Ações:** deverão ser disponibilizadas informações referentes aos programas e ações vigentes realizadas pelo órgão/entidade, assim como sobre os responsáveis pelos programas, e relatórios que permitam o acompanhamento de suas metas físicas e financeiras. 
 
-**Sugestão:**
+Sugestão de texto introdutório:
 
 - *Acesse os dados e informações acerca dos [programas e ações](http://www.transparencia.mg.gov.br/planejamento-e-resultados/planejamento-e-monitoramento/programacao-execucao-ppag-programa/ppagprograma-programas/4/2018/0/0) vigentes no Estado de Minas Gerais, incluindo o(a) do(a) <nome do órgão ou entidade>.*
 
 
 
-**b)	Plano Plurianual de Ação Governamental (PPAG):** deverá ser inserido texto introdutório sobre o PPAG, dados e informações sobre todos os programas e ações do órgão ou entidade, na própria página da seção, bem como disponibilizar link para o sitio eletrônico da Secretaria de Estado de Planejamento e Gestão – SEPLAG para acesso ao PPAG na íntegra. 
+**b)	Plano Plurianual de Ação Governamental (PPAG):** deverão ser inseridos texto introdutório sobre o PPAG, dados e informações sobre todos os programas e ações do órgão ou entidade, na própria página da seção, bem como disponibilizar link para o sitio eletrônico da Secretaria de Estado de Planejamento e Gestão – SEPLAG para acesso ao PPAG na íntegra. 
 
-Sugestão:
+Sugestão de texto introdutório:
 
 - **Plano Plurianual de Ação Governamental (PPAG):**  *é o instrumento orientador do planejamento da administração pública de médio prazo. Define qual será o escopo de atuação do Estado para um período de quatro anos, refletido nos programas e ações de governo, com suas respectivas metas físicas e orçamentárias, que serão executados durante esse período.*
 *Acesse o [PPAG](http://transparencia.mg.gov.br/planejamento-e-resultados) na íntegra e os documentos relacionados.*
@@ -98,9 +98,9 @@ Acesse a [LDO](http://transparencia.mg.gov.br/planejamento-e-resultados) na ínt
 
 
 
-**d)	Lei Orçamentária Anual (LOA):** deverá ser inserido texto introdutório sobre a LOA, dados e informações acerca do orçamento do órgão ou entidade, na própria página da seção ou em link para o Portal da Transparência, bem como o link para o sitio eletrônico da Secretaria de Estado de Planejamento e Gestão – SEPLAG para acesso à LOA na íntegra.
+**d)	Lei Orçamentária Anual (LOA):** deverão ser inseridos texto introdutório sobre a LOA, dados e informações acerca do orçamento do órgão ou entidade, na própria página da seção ou em link para o Portal da Transparência, bem como o link para o sitio eletrônico da Secretaria de Estado de Planejamento e Gestão – SEPLAG para acesso à LOA na íntegra.
 
-Sugestão:
+Sugestão de texto introdutório:
 
 - **Lei Orçamentária Anual (LOA):** *detalha os valores (receitas e despesas) definidos para o conjunto de programas e ações do PPAG. Especifica os recursos que irão financiar cada ação e as respectivas despesas.*
 *Acesse a [LOA](http://transparencia.mg.gov.br/planejamento-e-resultados) na íntegra e documentos relacionados.*
@@ -116,7 +116,7 @@ Sugestão:
 
 **f) Obras:** deverão ser listadas todas as obras executadas pelo próprio órgão ou entidade e/ou pelo Departamento de Edificações e Estradas de Rodagem de Minas Gerais (DEER).
 
-Sugestão:
+Sugestão de texto introdutório:
 
 - **Obras:** *encontre as informações sobre as obras executadas pelo próprio <nome do órgão ou entidade> e/ou pelo Departamento de Edificações e Estradas de Rodagem de Minas Gerais (DEER).*
 
@@ -127,7 +127,7 @@ Sugestão:
 
 - **Obras orçadas por exercício:** *Acesse os dados das [obras previstas](http://www.transparencia.mg.gov.br/planejamento-e-resultados/proposta-lei-orcamentaria/obras-orcadas) na Lei Orçamentária, incluindo as do <nome do órgão ou entidade>.
 
-**OBSERVAÇÃO:** Na ausência de obras executadas pelo próprio órgão ou entidade **e/ou** pelo Departamento de Edificações e Estradas de Rodagem de Minas Gerais, o órgão ou entidade deve informar que no momento não existe conteúdo a ser publicado e direcionar para a consulta “correta” do Portal da Transparência.
+**OBSERVAÇÃO:** Na ausência de obras executadas pelo próprio órgão ou entidade **e/ou** pelo Departamento de Edificações e Estradas de Rodagem de Minas Gerais, o órgão ou entidade deve informar que no momento não existe conteúdo a ser publicado e disponibilizar link para direcionar para a [consulta de despesas do órgão ou DEER do Portal da Transparência](http://www.transparencia.mg.gov.br/despesa-estado/despesa/despesa-orgaos/2020/01-01-2020/31-12-2020/3997).
 
 
 
@@ -151,7 +151,7 @@ Sugestão:
 - *Acesse as [receitas públicas estaduais](http://www.transparencia.mg.gov.br/estado-receita), incluindo as do (a) <nome do órgão ou entidade>.*
 
 
-**OBSERVAÇÃO:** Na ausência de receitas arrecadadas pelo próprio órgão/entidade, o órgão ou entidade deverá informar que no momento não existe conteúdo a ser publicado e direcionar para a consulta “Receita” do Portal da Transparência.
+**OBSERVAÇÃO:** Na ausência de receitas arrecadadas pelo próprio órgão/entidade, o órgão ou entidade deverá informar que no momento não existe conteúdo a ser publicado e direcionar para a [consulta “Receita” do Portal da Transparência[(http://www.transparencia.mg.gov.br/estado-receita).
 
 
 
@@ -190,21 +190,21 @@ Sugestão:
 
 As informações a serem divulgadas nesse item referem-se às transferências de recursos por meio de convênios de saída, termos de colaboração e fomento, termos de parceria, resoluções e outros instrumentos congêneres.
 
-Sugestão:
+Sugestão de texto:
 
 - *Nesta seção são disponibilizadas informações referentes às transferências de recursos públicos realizados pelo Estado por meio de convênios de saída, termos de colaboração e fomento, termos de parceria, resoluções e outros instrumentos congêneres com os órgãos ou entidades públicas ou entidades privadas sem fins lucrativos.*
 
 
 **a)	Transferências de recursos por meio de convênios de saída e termos de colaboração e fomento:** deverá ser inserido link para a consulta convênios/ parceria de recursos de saída disponível no Portal da Transparência.
 
-Sugestão:
+Sugestão de texto:
 
 - *Acesse os [Convênios/Parcerias de Saída de Recursos](http://www.transparencia.mg.gov.br/convenios/convenios-de-saida) e termos de colaboração e fomento do Estado, incluindo os do (a) <nome do órgão ou entidade>.*
 
 
 **b)	Transferências de recursos por meio de resoluções, termos de parceria e outros instrumentos congêneres:** o órgão ou entidade deverá listar ou inserir o link para documento contendo informações referentes às demais transferências de recursos públicos realizadas pelo Estado mediante resoluções, termos de parceria e outros instrumentos congêneres.
 
-Sugestão:
+Sugestão de texto:
 
 - *Acesse as outras transferências de recursos públicos realizadas pelo Estado mediante resoluções, termos de parceria e outros instrumentos congêneres.*
 
