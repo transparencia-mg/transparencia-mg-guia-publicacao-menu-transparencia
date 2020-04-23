@@ -61,280 +61,473 @@ Este guia deve ser utilizado junto com o ***checklist*** a ser disponibilizado p
 
 # DIRETRIZES PARA DISPONIBILIZAÇÃO DOS CONTEÚDOS
 
-Todos os itens constantes do menu *Transparência*  deverão conter um texto explicativo. As sugestões de textos apresentadas poderão ser utilizadas pelos órgãos e entidades que assim desejarem.
+Todos os itens constantes do menu ***Transparência***  deverão conter um texto explicativo. As sugestões de textos apresentadas poderão ser utilizadas pelos órgãos e entidades que assim desejarem.
 
-## Sobre a Lei de Acesso à Informação
+## 3.1	Menu Transparência
 
-**a)	Textos explicativos:** deverão ser inseridos textos introdutórios sobre a Lei de Acesso à Informação e orientações sobre os encaminhamentos de pedidos de acesso à informação para os órgãos e entidades, seguidos dos respectivos links.
+### a)	Objetivo:
+- criar um local único e padronizado que concentrem as informações mínimas e essenciais dos órgãos e entidades do Poder Executivo Estadual para divulgação de maneira ativa, sobretudo daquelas definidas em lei.
 
-Sugestão:
+### b)	Impactos Esperados:
+-	Diminuir demandas de acesso à informação;
+-	Padronizar a interface de relacionamento com o cidadão;
+-	Aumentar a satisfação da sociedade com o fornecimento de informações íntegras e atualizadas;
+-	Aumentar o controle social.
 
-- *A Lei de Acesso à Informação (Lei 12.527/11) regulamenta o direito constitucional de acesso às informações públicas, sendo aplicável aos três Poderes da União, dos Estados, do Distrito Federal e dos Municípios.*
+### c)	Legislação:
+- Decreto Estadual nº 45.969/2012 – art. 8º, inc. VI;
+- Resolução SEPLAG nº 29/2016 – art. 9º, inc. II, alínea g.
 
-- *Em Minas Gerais, os pedidos de informação são feitos por meio do Sistema Eletrônico de Acesso à Informação - e-SIC, que permite a elaboração e o acompanhamento dos pedidos e recursos.*
+### d)	Frequência de atualização:
+-	Não se aplica
+
+### e)	Texto Padrão:
+
+> Está seção reúne e divulga, de forma espontânea, dados do(a) (NOME DO ÓRGÃO/ENTIDADE) que são de interesse coletivo ou geral com o objetivo de facilitar o acesso à informação pública, conforme determinação da Lei Federal nº 12.527/2011, de 18 de novembro de 2011 e demais legislações que tratam do assunto.
+>
+> No Menu Transparência estão disponíveis as informações mínimas sobre serviços de informação ao cidadão, informações classificadas e desclassificadas, ações e programas, receitas e despesas, compras e contratos, convênios, repasses e transferências, doações, comodatos e cooperações, pessoal e concursos públicos, acessos aos dados abertos e informações sobre participação social.
+
+## 3.2	Serviço de Informações ao Cidadão
+
+### a)	Objetivo:
+- Informar ao cidadão sobre como fazer o pedido de acesso à informação e como obter os relatórios estatísticos com a quantidade de pedidos de acesso à informação do órgão e entidade.
+
+### b)	Impactos Esperados:
+-	Organizar e facilitar o procedimento de acesso à informação tanto para o cidadão quanto para a Administração Pública.
+
+### c)	Legislação:
+-	Lei Federal nº 12.527/2011 – art. 10 a 14;
+-	Decreto Federal nº 7.724/2012 – art. 9º, 10 e art. 45, inc. III e IV;
+-	Decreto Estadual nº 45.969/2012 – art. 12 e 13, art. 46, inc. III e IV;
+-	Resolução SEPLAG nº 29/2016 – art. 25, inc. V.
+
+### d)	Frequência de atualização:
+-	Sempre que houver alteração na legislação do e-SIC.
+-	Periodicamente, verificar os links de acesso ao e-SIC
+
+### e)	Texto Padrão:
+
+> Nesta seção, são divulgadas informações sobre o Serviço de Informação ao Cidadão (e-SIC), pertinentes ao seu funcionamento, localização e dados de contato no âmbito do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+>
+> Em Minas Gerais, os pedidos de acesso à informação são feitos por meio do Sistema Eletrônico de Acesso à Informação – [e-SIC](http://www.acessoainformacao.mg.gov.br), que permite a solicitação e o acompanhamento dos pedidos e recursos.
+>
+> As solicitações também podem ser realizadas por meio do telefone 155 (ligação gratuita), ou ainda presencialmente em qualquer [Posto Uai](http://www.planejamento.mg.gov.br/canais-de-atendimento-ao-cidadao/uais-unidades-de-atendimento-integrado/enderecos-das-uais).
+>
+> Para acessar aos relatórios estatísticos com a quantidade de pedidos de acesso à informação recebidos, atendidos e indeferidos, assim como informações estatísticas agregadas, consulte os [Relatórios Gerenciais da Lei de Acesso à Informação](http://www.transparencia.mg.gov.br/o-que-e#relatórios-gerenciais-–-lei-de-acesso-à-informação).
+>
+> Responsável pelo monitoramento:
+> - Nome
+> - Telefone
+> - E-mail *
+
+## 3.3 Informações classificadas e desclassificadas
+
+### a)	Objetivo:
+-	Atender o disposto no art. 45, inc. I e II do Decreto Federal nº 7.724/2012.
+
+### b)	Impactos Esperados:
+-	Informar ao cidadão o rol de informações classificadas em grau de sigilo
+-	Informar ao cidadão o rol de informações desclassificadas nos últimos 12 meses.
+
+### c)	Legislação:
+-	Lei Federal nº 12.527/2011 – art. 24 e 30;
+-	Decreto Federal nº 7.724/2012 – art. 45, inc. I e II;
+-	Decreto Estadual nº 45.969/2012 – art 46, inc. I e II;
+-	Resolução SEPLAG nº 29/2016 – art. 25, inc. VII e art. 26, inc. VIII.
+
+### d)	Frequência de atualização:
+-	Anualmente: em 1º de junho.
+-	E sempre que houver alteração nas informações classificadas e desclassificadas.
+
+### e)	Texto Padrão:
+
+> Espaço reservado para a divulgação das informações do(a) (NOME DO ÓRGÃO/ENTIDADE) classificadas ou desclassificadas nos graus de sigilo definidos no art. 24 da Lei nº 12.527/2011, em cumprimento ao disposto nos incisos I e II, do art. 45 do Decreto Federal nº 7.724/2012.
+>
+> Acesse as informações classificadas e desclassificadas do(a) (NOME DO ÓRGÃO OU ENTIDADE)
+> - Link para documento elaborado pelo órgão ou entidade, conforme orientações da Diretoria Central de Transparência Passiva da Controladoria Geral do Estado.
+>
+> - Na ausência de informações classificadas ou desclassificadas, o órgão ou entidade deverá informar que no momento não existe conteúdo a ser publicado.
+>
+> O (a) <nome do órgão/entidade> não teve informações classificadas ou desclassificadas nos graus de sigilo reservada, secreta e ultrassecreta, definidos no art. 23 da Lei Federal nº 12.527/11 (Lei de Acesso à Informação), no período (informar a última data de atualização)
+
+
+## 3.4 Programas e Ações
+
+### a)	Objetivo:
+- Divulgar todos os instrumentos de planejamento, bem como a relação dos programas e ações do órgão ou entidade juntamente com informações que permita o seu acompanhamento, conforme orientações do inc. V, §1º, art. 8º da Lei Federal nº12.527/2011.
+
+### b)	Impactos Esperados:
+-	Permitir o acompanhamento por parte do cidadão dos programas e ações do órgão ou entidade, por meio da disponibilização das informações referentes aos programas e ações vigentes do órgão/entidade, assim como sobre os responsáveis pelos programas, e relatórios que permitam o acompanhamento de suas metas físicas e financeiras.
+-	Informar ao cidadão os instrumentos de planejamento: PPAG, LDO, LOA.
 
-*Para maiores informações sobre a Lei de Acesso à Informação e sua regulamentação no âmbito do Estado de Minas Gerais, acesse o Portal da Transparência.* <http://www.transparencia.mg.gov.br/>
+### c)	Legislação:
+-	Lei Federal nº 12.527/2011 – art. 8, §1º, inc. V;
+-	Decreto Federal nº 7.724/2012 – art. 7º, §3º, inc. II;
+-	Decreto Estadual nº 45.969/2012 – art. 7º, inc. III e art. 8º, inc. VII;
+-	Resolução SEPLAG nº 29/2016 – art. 25, inc. II e art. 26, inc. II.
 
-*Para realizar sua solicitação de acesso à informação, acesse o E-SIC.*
-<http://www.transparencia.mg.gov.br/acessoainformacao>
+### d)	Frequência de atualização:
+-	Anualmente: para a legislação que trata dos instrumentos de planejamento (PPAG, LDO, LOA).
+-	Bimestralmente: para as informações sobre Ações e Programas.
+-	Periodicamente, verificar os links de acesso ao Portal da Transparência
+
+### e)	Texto Padrão:
 
+> Nesta seção são disponibilizadas as informações dos programas e ações vigentes do(a) (NOME DO ÓRGÃO/ENTIDADE) no ano de XXXX, bem como os instrumentos de planejamento e orçamento do Governo do Estado de Minas Gerais: PPAG, LDO e LOA.
+>
+> Acesse os dados e informações acerca dos [programas e ações](http://www.transparencia.mg.gov.br/planejamento-e-resultados/planejamento-e-monitoramento/programacao-execucao-ppag-programa/ppagprograma-programas/4/2019/0/0) vigentes no Estado de Minas Gerais, incluindo o do(a) (NOME DO ÓRGÃO/ENTIDADE).
+>
+> **Plano Plurianual de Ação Governamental (PPAG):** é o instrumento orientador do planejamento da administração pública de médio prazo. Define qual será o escopo de atuação do Estado para um período de quatro anos, refletido nos programas e ações de governo, com suas respectivas metas físicas e orçamentárias, que serão executados durante esse período.
+>
+> Acesse o [PPAG](http://transparencia.mg.gov.br/planejamento-e-resultados) na íntegra e os documentos relacionados.
+>
+> **Lei de Diretrizes Orçamentárias (LDO):** estabelece quais programas e ações do PPAG serão prioridade, bem como as regras para a elaboração do orçamento e as metas fiscais (projeção da receitas e despesas totais) para os próximos três anos.
+>
+> Acesse a [LDO](http://transparencia.mg.gov.br/planejamento-e-resultados) na íntegra e os documentos relacionados.
+>
+> **Lei Orçamentária Anual (LOA):** detalha os valores (receitas e despesas) definidos para o conjunto de programas e ações do PPAG. Especifica os recursos que irão financiar cada ação e as respectivas despesas.
+>
+> Acesse a [LOA](http://transparencia.mg.gov.br/planejamento-e-resultados) na íntegra e documentos relacionados.
 
-**b) Relatórios dos pedidso de acesso à informação:** Deverá ser inserido link para que o cidadão acesse os relatórios de pedidos de acesso à informação elaborados pela Controladoria Geral do Estado (CGE).
+## 3.5	Obras Públicas
 
-Sugestão:
+### a)	Objetivo:
+-	Cumprir o que determina a Lei Estadual nº 23.386/2019 referente a divulgação de informações pelos órgãos e entidades, em seus sítios eletrônicos sobre as obras públicas cuja **execução** esteja em andamento.
 
-- *Acesse os relatórios estatísticos com a quantidade de pedidos de acesso à informação recebidos, atendidos e indeferidos.* (http://www.transparencia.mg.gov.br/o-que-e#relatórios-gerenciais-–-lei-de-acesso-à-informação)
+### b)	Impactos Esperados:
+-	Permitir o acompanhamento por parte do cidadão das obras públicas em andamento, favorecendo a fiscalização da atividade governamental.
 
+### c)	Legislação:
+-	Lei Federal nº 12.527/2011 – art. 8, §1º, inc. V;
+-	Decreto Federal nº 7.724/2012 – art. 7º, §3º, inc. II;
+-	Lei Estadual nº 23.386/2019.
 
-**c) Dúvidas:** Divulgar na página inicial as perguntas que os cidadãos mais constumam fazer por meio do Fale Conosco e LAI com suas respectivas respostas, bem como as dúvidas avaliadas pelos órgãos e entidades e consideradas relevantes para divulgação.
+### d)	Frequência de atualização:
+-	Imediatamente após o início da obra: cópia do contrato e dos termos aditivos, e cópia do projeto básico e do projeto executivo da obra;
+-	Trimestralmente: relatório de execução da obra, contendo fotografias, cronograma previsto e realizado, medições realizadas e pagamentos autorizados e efetuados.
 
-Sugestão de localização do link:
+### e)	Texto Padrão:
 
-![](static/imagem_1.png)
+> Nesta seção são disponibilizadas as informações sobre as obras públicas em andamento no(a) (NOME DO ÓRGÃO/ENTIDADE).
+>
 
+>| Obra      |Objeto        |Contrato    |Termo Aditivo    |Projeto Básico| Projeto Executivo|Relatório Trimestral|
+>| --------- | ------------ | ---------- | --------------- |------------- | -----------------|--------------------|
+>|           |              |            |                 |              |                  |
 
-## Informações classificadas e desclassificadas
+> Dados da Tabela:
+> - Obra (nº da obra)
+> - Objeto (informar o objeto da obra)
+> - Contrato (número do contrato e link para acesso ao contrato)
+> - Termo Aditivo (número e link para acesso ao documento)
+> - Projeto Básico (link para acesso ao documento)
+> - Projeto Executivo (link para acesso ao documento)
+> - Relatório Trimestral (número e link para acesso ao relatório)
 
-Nesse item deverá ser inserido texto introdutório sobre a classificação e desclassificação de informações, bem como documentos contendo o rol de informações classificadas desde a vigência da Lei Federal nº 12.527/11 e o rol de informações desclassificadas dos últimos 12 meses.
 
-**a) Texto introdutório: **
+## 3.6 Despesas e receitas
+
+### a)	Objetivo:
+-	Disponibilizar informações detalhadas e atualizadas diariamente sobre a execução orçamentária e financeira, bem como sobre suas receitas previstas e arrecadadas.
 
-Sugestão:
+### b)	Impactos Esperados:
+-	Permitir o acompanhamento diário da evolução das receitas e despesas do Estado de Minas Gerais.
 
-- *As informações sigilosas são classificadas pelos órgãos e entidades quanto ao grau do sigilo, conforme orientações do Decreto nº 45.969/2012. Deve ser disponibilizada listagem atualizada nos últimos 12 meses, que contenha todas as informações classificadas em cada grau de sigilo e aquelas desclassificadas .*
+### c)	Legislação:
+-	Lei Federal nº 12.527/2011 – art. 8, §1º, inc. III;
+-	Decreto Federal nº 7.724/2012 – art. 7º, §3º, inc. IV;
+-	Decreto Estadual nº 45.969/2012 – art. 7º, inc. V;
+-	Resolução SEPLAG nº 29/2016 – art. 26, inc. III.
+
+### d)	Frequência de atualização:
+-	Periodicamente, verificar os links de acesso ao Portal da Transparência.
 
+### e)	Texto Padrão:
+
+> Nesta seção são disponibilizadas informações sobre a previsão e arrecadação da receita pública e execução orçamentária e financeira do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+>
+> **Despesa pública:** É a aplicação (em dinheiro) de recursos do Estado para custear os serviços de ordem pública ou para investir no próprio desenvolvimento econômico do Estado. É o compromisso de gasto dos recursos públicos, autorizados pelo Poder competente, com o fim de atender a uma necessidade da coletividade prevista no orçamento.
+>
+> - Acesse as [despesas públicas estaduais](http://www.transparencia.mg.gov.br/despesa-estado/despesa), incluindo as do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+>
+> **Receita pública:** Montante em dinheiro recolhido pelo Estado em virtude de arrecadação via impostos, taxas, contribuições e outras fontes de recursos, incorporado ao patrimônio do Estado, que serve para custear as despesas públicas e as necessidades de investimentos públicos.
+>
+> - Acesse as [receitas públicas estaduais](http://www.transparencia.mg.gov.br/estado-receita), incluindo as do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 
-**b)	Informações Classificadas e Desclassificadas: **
+**OBSERVAÇÃO:** Na ausência de receitas arrecadadas pelo próprio órgão/entidade, o órgão ou entidade deverá informar que no momento não existe conteúdo a ser publicado e direcionar para a consulta “Receita” do Portal da Transparência.
 
-Para os órgãos e entidades que possuem Informações Classificadas e Desclassificadas:
 
-Sugestão:
+## 3.7	MULTAS (TÓPICO ESPECÍFICO PARA DETRAN/MG)
 
-- *Acesse as informações classificadas e desclassificadas do (a) <nome do órgão ou entidade>
-(Link para documento elaborado pelo órgão ou entidade, conforme orientações da Diretoria de Transparência Passiva da Controladoria Geral do Estado).*
+### a)	Objetivo:
+-	Cumprir o que preceitua a Lei Estadual nº 23.573/2020, que determina ao DETRAN/MG, a divulgação trimestral, em seu sítio eletrônico e no Portal da Transparência, os valores arrecadados com multas de trânsito, bem como a destinação desses recursos.
 
+### b)	Impactos Esperados:
+-	Permitir que a sociedade acompanhe a evolução dos valores arrecadados com multas de trânsito e a aplicação desses recursos pelo Estado de Minas Gerais.
 
+### c)	Legislação:
+-	Lei Estadual nº 23.573/2020.
 
-Na ausência de informações classificadas ou desclassificadas, o órgão ou entidade deverá informar que, no momento, não existe conteúdo a ser publicado.
+### d)	Frequência de atualização:
+-	Trimestralmente (janeiro, abril, julho, outubro) divulgar no sítio eletrônico do DETRAN/MG os valores arrecadados com multas de trânsito e a aplicação desses recursos;
+- Trimestralmente (janeiro, abril, julho, outubro) enviar a planilha em formato CSV para o e-mail [transparencia@cge.mg.gov.br](), da Superintendência Central de Transparência para publicação no Portal de Dados Abertos.
 
-Sugestão:
+### e)	Texto Padrão:
 
-- *O (a) <nome do órgão/entidade> não teve, nos doze últimos meses, informações classificadas ou desclassificadas nos graus de sigilo reservada, secreta e ultrassecreta, definidos no art. 23 da Lei Federal nº 12.527/11 (Lei de Acesso à Informação).*
+> Nesta seção são disponibilizadas informações sobre os valores arrecadados pelo Departamento de Trânsito de Minas Gerais – DETRAN/MG com multas de trânsito, bem como a destinação desses recursos.
+>
+> - Acesse aqui os valores arrecadados com multas de trânsito (link para acesso ou pdf do documento).
+>
+> - Acesso aqui as informações sobre a destinação dos recursos arrecadados com multas de trânsito (link para acesso ou pdf do documento).
 
+## 3.8	CRÉDITOS TRIBUTÁRIOS (TÓPICO ESPECÍFICO PARA SEF/MG)
 
+### a)	Objetivo:
+-	Cumprir o que determina o art. 4º da Lei Estadual nº 23.510/2019 de divulgar semestralmente relatório referente às dívidas e aos créditos tributários compensados, contendo: a listagem das dívidas compensadas, os valores de ICMS compensados, a previsão para liquidação da dívida, o quantitativo da dívida compensada pelos créditos tributários vincendos com as respectivas origens, o montante correspondente à parcela da arrecadação do ICMS pertencente aos munícipios e o montante correspondente à parcela destinada ao FUNDEP.
 
-## Programas e ações
+### b)	Impactos Esperados:
+-	Permitir que a sociedade acompanhe a evolução das dívidas e dos créditos tributários compensados.
 
-Nesse item deverão ser divulgados todos os instrumentos de planejamento, incluindo a relação dos programas e ações do órgão ou entidade com informações que permitam o seu acompanhamento.
+### c)	Legislação:
+-	Lei Estadual nº 23.573/2020 – art. 4º.
 
-Sugestão:
+### d)	Frequência de atualização:
+-	Semestralmente, em junho e dezembro de cada ano: divulgar no sítio eletrônico da SEF/MG;
+- Semestralmente, em junho e dezembro de cada ano: enviar a planilha em formato CSV, para o e-mail [transparencia@cge.mg.gov.br](), da Superintendência Central de Transparência para publicação no Portal de Dados Abertos.
 
-- *Nesta seção são disponibilizadas as informações pertinentes aos programas e ações vigentes do (a) <nome do órgão/entidade>, bem como os instrumentos de planejamento e orçamento do Governo do Estado de Minas Gerais: PPAG, LDO e LOA.*
+### e)	Texto Padrão:
 
+> Nesta seção são disponibilizadas informações sobre as dívidas e os créditos tributários compensados pelo Estado de Minas Gerais.
+>
+> - Acesse aqui a lista das dívidas compensadas
+> - Acesse aqui os valores de ICMS compensados
+> - Acesse aqui a previsão para liquidação da dívida
+> - Acesse aqui o quantitativo da dívida compensada pelos créditos tributários vincendos com as respectivas origens
+> - Acesse aqui o montante correspondente à parcela da arrecadação do ICMS pertencente aos munícipio
+> - Acesse aqui o montante correspondente à parcela destinada ao FUNDEP
 
+## 3.9 Compras e Contratos
 
-**a)	Programas e Ações:** deverão ser disponibilizadas informações referentes aos programas e ações vigentes realizadas pelo órgão/entidade, assim como sobre os responsáveis pelos programas, e relatórios que permitam o acompanhamento de suas metas físicas e financeiras.
+### a)	Objetivo:
+-	Divulgar informações sobre os processos de compras para aquisição de materiais e serviços nos órgãos e entidades do Estado de Minas Gerais, bem como informações sobre os contratos celebrados entre o Estado e terceiros, incluindo os atos relativos a dispensa ou inexigibilidade de licitação.
 
-Sugestão de texto introdutório:
+### b)	Impactos Esperados:
+-	Permitir o acompanhamento da execução dos contratos firmados pela Administração Pública;
+-	Ampliar a participação da sociedade nos procedimentos licitatórios.
 
-- *Acesse os dados e informações acerca dos [programas e ações](http://www.transparencia.mg.gov.br/planejamento-e-resultados/planejamento-e-monitoramento/programacao-execucao-ppag-programa/ppagprograma-programas/4/2018/0/0) vigentes no Estado de Minas Gerais, incluindo o(a) do(a) <nome do órgão ou entidade>.*
+### c)	Legislação:
+-	Lei Federal nº 12.527/2011 – art. 8, §1º, inc. IV;
+-	Decreto Federal nº 7.724/2012 – art. 7º, §3º, inc. V;
+-	Decreto Estadual nº 45.969/2012 – art. 7º, inc. VI;
+-	Resolução SEPLAG nº 29/2016 – art. 25, inc. IV e art. 26, inc. IV;
+-	Lei Estadual nº 23.569/2020 – art. 1º, inc. I e art. 2º.
 
+### d)	Frequência de atualização:
+-	Sempre que novas licitações foram publicadas;
+-	Sempre que novos contratos forem assinados;
+-	Periodicamente, verificar os links de acesso ao Portal da Transparência e ao Portal de Compras.
 
+### e)	Texto Padrão:
 
-**b)	Plano Plurianual de Ação Governamental (PPAG):** deverão ser inseridos texto introdutório sobre o PPAG, dados e informações sobre todos os programas e ações do órgão ou entidade, na própria página da seção, bem como disponibilizar link para o sitio eletrônico da Secretaria de Estado de Planejamento e Gestão – SEPLAG para acesso ao PPAG na íntegra.
+> Nesta seção são disponibilizadas informações relativas aos processos de compras estaduais para aquisição de materiais e serviços, bem como os contratos firmados entre o Estado e terceiros.
+>
+> **Compras e Contratos**
+>
+> Acesse o Portal de Compras para confererir os [Procedimentos Licitatórios](http://compras.mg.gov.br/) em andamento no(a) (NOME DO ÓRGÃO OU ENTIDADE).
+>
+> Acesse os [processos de compras](http://www.transparencia.mg.gov.br/compras-e-patrimonio/compras-e-contratos) concluído pelo(a) (NOME DO ÓRGÃO OU ENTIDADE).
+>
+> Consulte e emita o [Certificado de Regularidade]( https://www.cagef.mg.gov.br/fornecedor-web/br/gov/prodemge/seplag/fornecedor/publico/index.zul) para Participar de Licitações Públicas no âmbito do Poder Executivo do Estado de Minas Gerais.
 
-Sugestão de texto introdutório:
+## 3.10	PROCEDIMENTOS LICITATÓRIOS ENVIADOS PARA O TCE/MG (TÓPICO ESPECÍFICO)
 
-- **Plano Plurianual de Ação Governamental (PPAG):**  *é o instrumento orientador do planejamento da administração pública de médio prazo. Define qual será o escopo de atuação do Estado para um período de quatro anos, refletido nos programas e ações de governo, com suas respectivas metas físicas e orçamentárias, que serão executados durante esse período.*
-*Acesse o [PPAG](http://transparencia.mg.gov.br/planejamento-e-resultados) na íntegra e os documentos relacionados.*
+### a)	Objetivo:
+-	Cumprir o disposto no art. 1º da Lei Estadual nº 23.569/2020, que determina a publicação em sítio eletrônico do órgão ou entidade dos atos administrativos e documentos relativos a procedimentos licitatórios que, por determinação legal ou decisão específica do Tribunal de Contas a estes devam ser encaminhados.
 
+### b)	Impactos Esperados:
+-	Permitir o acompanhamento pela sociedade dos procedimentos licitatórios enviados ao TCE/MG.
 
+### c)	Legislação:
+-	Lei Estadual nº 23.569/2020 – art. 1º, caput.
 
-**c)	Lei de Diretrizes Orçamentárias (LDO):** deverá ser inserido texto introdutório sobre a LDO e link para o sitio eletrônico da Secretaria de Estado de Planejamento e Gestão – SEPLAG para acesso à LDO na íntegra.
+### d)	Frequência de atualização:
+-	Sempre que forem solicitados pelo Tribunal de Contas atos administrativos e documentos relativos a procedimentos licitatórios.
 
-Sugestão:
+### e)	Texto Padrão:
 
-- **Lei de Diretrizes Orçamentárias (LDO):** *estabelece quais programas e ações do PPAG serão prioridade, bem como as regras para a elaboração do orçamento e as metas fiscais (projeção da receitas e despesas totais) para os próximos três anos.
-Acesse a [LDO](http://transparencia.mg.gov.br/planejamento-e-resultados) na íntegra e os documentos relacionados.*
+> Nesta seção são disponibilizadas informações relativas aos atos e procedimentos licitatórios enviados ao Tribunal de Contas do Estado de Minas Gerais, nos termos do art. 1º da Lei Estadual nº 23.569/2020.
+>
+> - Procedimento Licitatório X (informar o tipo de procedimento licitatório e número)
+>    - Lista dos documentos encaminhados, com link para acesso ou pdf do documento.
 
 
+## 3.11 Convênios, Repasses e Transferências
 
-**d)	Lei Orçamentária Anual (LOA):** deverão ser inseridos texto introdutório sobre a LOA, dados e informações acerca do orçamento do órgão ou entidade, na própria página da seção ou em link para o Portal da Transparência, bem como o link para o sitio eletrônico da Secretaria de Estado de Planejamento e Gestão – SEPLAG para acesso à LOA na íntegra.
+### a)	Objetivo:
+- Divulgar informações sobre os convênios, repasses e transferências de recursos por meio de convênios de saída, termos de colaboração e fomento, termos de parceria, resoluções e outros instrumentos congêneres;
+-	Divulgar informações sobre concessões e permissões, nos termos do inc. III, parágrafo único, art. 1º da Lei Estadual nº 23.569/2020.
 
-Sugestão de texto introdutório:
+### b)	Impactos Esperados:
+- Permitir que a sociedade acompanhe os registros de repasses e transferências de recursos financeiros;
+- Permitir que a sociedade acompanhe as concessões e permissões firmadas pelo Estado de Minas Gerais.
 
-- **Lei Orçamentária Anual (LOA):** *detalha os valores (receitas e despesas) definidos para o conjunto de programas e ações do PPAG. Especifica os recursos que irão financiar cada ação e as respectivas despesas.*
-*Acesse a [LOA](http://transparencia.mg.gov.br/planejamento-e-resultados) na íntegra e documentos relacionados.*
+### c)	Legislação:
+- Lei Federal nº 12.527/2011 – art. 8, §1º, inc. II;
+- Decreto Federal nº 7.724/2012 – art. 7º, §3º, inc. III;
+- Decreto Estadual nº 45.969/2012 – art. 7º, inc. IV;
+- Resolução SEPLAG nº 29/2016 – art. 25, inc. III e art. 26, inc. V;
+- Lei Estadual nº 23.569/2020 – art. 1º, inc. II e III.
 
+### d)	Frequência de atualização:
+-	Periodicamente, verificar o link de acesso ao Portal da Transparência, para os convênios, repasses e transferências disponíveis na consulta de Convênios/Parcerias de Saída de Recursos.
+-	Sempre que forem celebrados convênios, repasses e transferências de recursos financeiros que não estejam incluídos na consulta de Convênios/Parcerias de Saída de Recursos do Portal da Transparência.
+-	Periodicamente, verificar o link de acesso ao Portal das PPP.
 
+### e)	Texto Padrão:
 
-**e)	Proposta Orçamentária e Lei Orçamentaria:** deverá ser inserido texto introdutório sobre a consulta Planejamento e Resultados, disponibilizada no Portal da Transparência.
+> Nesta seção são disponibilizadas informações referentes às transferências de recursos públicos realizados pelo Estado por meio de convênios de saída, termos de colaboração e fomento, termos de parceria, resoluções e outros instrumentos congêneres com os órgãos ou entidades públicas ou entidades privadas sem fins lucrativos.
+>
+> - Acesse os [Convênios de Saída de Recursos](http://www.transparencia.mg.gov.br/convenios/convenios-de-saida) e termos de colaboração e fomento do Estado, incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+>
+> - Acesse os [Termos de Concessões – PPP](http://www.ppp.mg.gov.br/) realizados por meio de Parcerias Públicos Privadas, incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+>
+> Acesse abaixo as transferências de recursos realizadas por meio de resoluções, termos de parceria e outros instrumentos congêneres que não constam na consulta de Convênios/Parcerias de Saída de Recursos do Portal da Transparência e na consulta de PPP:
+> - O órgão ou entidade deverá disponibilizar o acesso aos documentos de transferências de recursos públicos realizadas pelo Estado, que não estejam disponíveis na consulta de Convênios de Saída do Portal da Transparência.
 
-Sugestão:
-
-- **Proposta Orçamentaria e Lei Orçamentária:** *neste item são detalhadas despesas estaduais propostas e orçadas, os créditos suplementares, as obras orçadas por exercício e as emendas parlamentares estaduais. Acesse os dados e informações acerca do [orçamento](http://www.transparencia.mg.gov.br/planejamento-e-resultados/proposta-lei-orcamentaria), incluindo a do (a) <nome do órgão ou entidade>.*
-
-
-**f) Obras:** deverão ser listadas todas as obras executadas pelo próprio órgão ou entidade e/ou pelo Departamento de Edificações e Estradas de Rodagem de Minas Gerais (DEER).
-
-Sugestão de texto introdutório:
-
-- **Obras:** *encontre as informações sobre as obras executadas pelo próprio <nome do órgão ou entidade> e/ou pelo Departamento de Edificações e Estradas de Rodagem de Minas Gerais (DEER).*
-
-- **Obras executadas pelo DEER:** *Acesse as [obras](http://www.deop.mg.gov.br/images/relatorio/obras-em-andamento.pdf) do (a) <nome do órgão ou entidade> executadas por meio do Departamento de Edificações e Estradas de Rodagem de Minas Gerais (DEER).*
-
-- **Obras executadas pelo <nome do órgão ou entidade>:** *Acesse as [obras] executadas pelo (a) <nome do órgão ou entidade> ou outros parceiros.*
-(*O órgão ou entidade deverá listar na própria seção ou em documento linkado dados e informações que permita o acompanhamento*).
-
-- **Obras orçadas por exercício:** *Acesse os dados das [obras previstas](http://www.transparencia.mg.gov.br/planejamento-e-resultados/proposta-lei-orcamentaria/obras-orcadas) na Lei Orçamentária, incluindo as do <nome do órgão ou entidade>.
-
-**OBSERVAÇÃO:** Na ausência de obras executadas pelo próprio órgão ou entidade **e/ou** pelo Departamento de Edificações e Estradas de Rodagem de Minas Gerais, o órgão ou entidade deve informar que no momento não existe conteúdo a ser publicado e disponibilizar link para direcionar para a [consulta de despesas do órgão ou DEER do Portal da Transparência](http://www.transparencia.mg.gov.br/despesa-estado/despesa/despesa-orgaos/2020/01-01-2020/31-12-2020/3997).
-
-
-
-## Despesas e receitas
-
-Deverá ser inserido link para a consulta de despesas e receitas disponíveis no Portal da Transparência do Estado.
-
-**a) Texto introdutório: **
-
-Sugestão:
-
-- *Nesta seção são disponibilizadas informações sobre as receitas e despesas.*
-
-- **Despesa pública:** *É a aplicação (em dinheiro) de recursos do Estado para custear os serviços de ordem pública ou para investir no próprio desenvolvimento econômico do Estado. É o compromisso de gasto dos recursos públicos, autorizados pelo Poder competente, com o fim de atender a uma necessidade da coletividade prevista no orçamento.*
-
-- *Acesse as [despesas públicas estaduais](http://www.transparencia.mg.gov.br/despesa-estado/despesa), incluindo as do (a) <nome do órgão ou entidade>.*
-
-
-- **Receita pública:** *Montante em dinheiro recolhido pelo Estado em virtude de arrecadação via impostos, taxas, contribuições e outras fontes de recursos, incorporado ao patrimônio do Estado, que serve para custear as despesas públicas e as necessidades de investimentos públicos.*
-
-- *Acesse as [receitas públicas estaduais](http://www.transparencia.mg.gov.br/estado-receita), incluindo as do (a) <nome do órgão ou entidade>.*
-
-
-**OBSERVAÇÃO:** Na ausência de receitas arrecadadas pelo próprio órgão/entidade, o órgão ou entidade deverá informar que no momento não existe conteúdo a ser publicado e direcionar para a [consulta “Receita” do Portal da Transparência[(http://www.transparencia.mg.gov.br/estado-receita).
-
-
-
-## Licitações e Contratos
-
-As informações a serem divulgadas nesse item referem-se aos processos de compras estaduais para aquisição de materiais e serviços e aos contratos firmados entre o Estado e terceiros.
-
-**a)	Compras e contratos:** deverá ser inserido link para a consulta de Compras e Contratos disponível no Portal da Transparência e/ou apresentar informações dos procedimentos licitatórios, destacando suas fases bem como toda a documentação, inclusive os contratos na íntegra.
-
-Sugestão:
-
-- *Nesta seção são disponibilizadas informações relativas aos processos de compras estaduais para aquisição de materiais e serviços, bem como os contratos firmados entre o Estado e terceiros.*
-
-- *Acesse os [processos de compras](http://www.transparencia.mg.gov.br/compras-e-patrimonio/compras-e-contratos) na consulta de Compras e Contratos do Portal da Transparência, incluindo os do (a) <nome do órgão ou entidade>.*
-
-
-Poderão ser disponibilizadas também nessa seção outros dados e informações sobre licitações, compras e contratos que o órgão e entidade considerar necessários.
-
-
-**TÓPICO DE DIVULGAÇÃO OPCIONAL**
-
-
-**b)	Patrimônio mobiliário e frota:** segue sugestão de conteúdo para caso o órgão ou entidade tenha interesse em divulgar informações sobre a frota e o patrimônio mobiliário.
-
-Sugestão:
-
-- *Nesta seção são disponibilizados dados da frota e do patrimônio mobiliário do Estado, incluindo os do (a) <nome do órgão ou entidade>.*
-
-- *Acesse o [Patrimônio Mobiliário] do Estado (http://www.transparencia.mg.gov.br/compras-e-patrimonio/patrimonio) Mobiliário do Estado.*
-
-- *Acesse a [Frota Ativa] do Estado (http://www.transparencia.mg.gov.br/compras-e-patrimonio/gestao-de-frota) ativa do Estado.*
-
-
-
-## Convênios/Parcerias de Saída de Recursos
-
-As informações a serem divulgadas nesse item referem-se às transferências de recursos por meio de convênios de saída, termos de colaboração e fomento, termos de parceria, resoluções e outros instrumentos congêneres.
-
-Sugestão de texto:
-
-- *Nesta seção são disponibilizadas informações referentes às transferências de recursos públicos realizados pelo Estado por meio de convênios de saída, termos de colaboração e fomento, termos de parceria, resoluções e outros instrumentos congêneres com os órgãos ou entidades públicas ou entidades privadas sem fins lucrativos.*
-
-
-**a)	Transferências de recursos por meio de convênios de saída e termos de colaboração e fomento:** deverá ser inserido link para a consulta convênios/ parceria de recursos de saída disponível no Portal da Transparência.
-
-Sugestão de texto:
-
-- *Acesse os [Convênios/Parcerias de Saída de Recursos](http://www.transparencia.mg.gov.br/convenios/convenios-de-saida) e termos de colaboração e fomento do Estado, incluindo os do (a) <nome do órgão ou entidade>.*
-
-
-**b)	Transferências de recursos por meio de resoluções, termos de parceria e outros instrumentos congêneres:** o órgão ou entidade deverá listar ou inserir o link para documento contendo informações referentes às demais transferências de recursos públicos realizadas pelo Estado mediante resoluções, termos de parceria e outros instrumentos congêneres.
-
-Sugestão de texto:
-
-- *Acesse as outras transferências de recursos públicos realizadas pelo Estado mediante resoluções, termos de parceria e outros instrumentos congêneres.*
-
-(O órgão ou entidade deverá listar na própria seção ou em documento linkado informações referentes às demais transferências de recursos públicos realizadas pelo Estado).
 
 **OBSERVAÇÃO:** Na ausência de convênios e parcerias de saída de recursos, o órgão ou entidade deverá informar que no momento não existe conteúdo para ser publicado e direcionar para a consulta “Convênios/Parcerias de Saída de Recursos” do Portal da Transparência.
 
 
+## 3.12 Doações, Comodatos e Cooperações (TÓPICO ESPECÍFICO)
 
-## Convênios de Entrada de Recursos
+### a)	Objetivo:
+- Cumprir o disposto no art. 18 do Decreto Estadual nº 47.611/2019, que determina a publicação em sítio eletrônico do órgão ou entidade dos programas, projetos e relações das doações e comodatos celebrados, contendo informações sobre: nome do doador ou comodante; CNPJ ou CPF do doador ou comodante; ojbeto da doação ou comodato e, quando for o caso, seu quantitativo; a vigência do comodato; o valor estimado do bem ou serviço doado ou oferecido em comodato.
 
-Deverá ser inserido nessa seção o link para a consulta ao Portal da Transparência com informações referentes aos convênios de entrada de recursos no Estado.
+### b)	Impactos Esperados:
+- Permitir que a sociedade acompanhe as doações de bens e serviços ao Estado de Minas Gerais.
+- Falicitar a localização dos registros de doações de bens e serviços.
 
-Sugestão:
+### c)	Legislação:
+- Decreto Estadual nº 47.611/2019 - art. 17 e 18.
 
-- *Nesta seção são disponibilizadas informações referentes à transferência de recursos públicos para os órgão e entidades do Estado de Minas Gerais por meio de convênios de entrada.*
+### d)	Frequência de atualização:
+-	Sempre que forem recebidas doações ou comodatos pelos órgãos/entidades, divulgar no próprio sítio eletrônico;
+- Sempre que forem recebidas doações ou comodatos, enviar a planilha em formato CSV para o e-mail transparencia@cge.mg.gov.br, para a Superintendência Central de Transparência para publicação em formato aberto.
 
-- *Acesse os [Convênios de Entrada de Recursos](http://www.transparencia.mg.gov.br/convenios/convenio-entrada), incluindo os do (a) <nome do órgão ou entidade>.*
+### e)	Texto Padrão:
 
-
-**OBSERVAÇÃO:**  Na ausência de convênios de entrada de recursos, o órgão ou entidade deverá informar que no momento não existe conteúdo a ser publicado e direcionar para a consulta “Convênios de Entrada de Recursos” do Portal da Transparência.
-
-
-
-## Servidores
-
-Deverá ser inserido o link para a consulta do Portal da Transparência de remuneração dos servidores públicos da administração direta, autárquica e fundacional.
-
-Sugestão:
-
-- *Nesta seção são disponibilizadas informações (nome, matricula, cargo, lotação e remuneração) sobre os servidores públicos ativos da administração direta, autárquica e fundacional.*
-
-- *Acesse a [Remuneração dos Servidores públicos](http://www.transparencia.mg.gov.br/estado-pessoal/remuneracao-dos-servidores), incluindo os do (a) <nome do órgão ou entidade>.*
+> Nesta seção são disponibilizadas a relação das doações e comodatos para o Governo de Minas Gerais, em consonância com o art. 18 do Decreto nº 47.611/2019.
+>
+> - Acesse aqui a relação das doações e comodatos para o Governo de Minas Gerais, por meio do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 
 
-Poderão ser disponibilizadas também nessa seção outros dados e informações sobre os servidores lotados e em exercício no órgão ou entidade.
+## 3.13 Pessoal
 
-Exemplo: relação de servidores terceirizados e comissionados, quantitativo de cargos e funções, servidores cedidos e à disposição e etc.
+### a)	Objetivo:
+- Divulgar a remuneração e o subsídio recebidos por ocupante de cargo, posto, graduação, função e emprego público, incluindo auxílios, ajudas de custo, jetons e quaisquer outras vantagens pecuniárias, bem como proventos de aposentadoria e pensões daqueles que estiverem na ativa, de maneira individualizada.
+- Divulgar as informações sobre os proventos de aposentadoria dos servidores inativos e de pensões pagas pelo Estado de Minas Gerais.
+- Divulgar a íntegra dos editais de concursos públicos para provimentos de cargos e a relação dos aprovados em concurso público.
 
+### b)	Impactos Esperados:
+- Permitir o acesso as informações sobre os gastos de pessoal do Estado de Minas Gerais com os servidores ativos, inativos e com pensionistas.
+- Permitir o acompanhamento dos concursos públicos realizados pelo Estado de Minas Gerais e as suas nomeações.
 
+### c)	Legislação:
+- Decreto Federal nº 7.724/2012 – art. 7º, §3º, inc. VI;
+-	Decreto Estadual nº 45.969/2012 – art. 4º, inc. VIII;
+-	Resolução SEPLAG nº 29/2016, art. 26, inc. VI;
+-	Resolução SEPLAG nº 29/2016, art. 26, inc. VI conjugado com o anexo IV (Texto Padrão Menu Transparência);
 
-## Concursos Públicos
+### d)	Frequência de atualização:
+-	Periodicamente, verificar os links de acesso ao Portal da Transparência;
 
-As informações a serem divulgadas nesse item referem-se aos concursos públicos realizados pela administração direta, autárquica e fundacional do Poder Executivo Estadual.
+### e)	Texto Padrão:
 
-Sugestão:
-
-- *Nesta seção são disponibilizadas informações sobre os concursos públicos estaduais, incluindo os do (a) <nome do órgão ou entidade>.*
-
-- *Acesse os [Concursos Realizados](http://www.transparencia.mg.gov.br/estado-pessoal/concursos-realizados) e registrados no Sistema de Gestão de Concursos Públicos (SIGECOP).*
-
-- *Acesse os [Concursos Públicos em Andamento](http://www.planejamento.mg.gov.br/concursos-e-estagios/concursos-publicos).*
-Link para o sítio eletrônico da Secretaria de Estado de Planejamento e Gestão.
+> Nesta seção são disponibilizadas informações (nome, matricula, cargo, lotação e remuneração) sobre os servidores públicos ativos da administração direta, autárquica e fundacional, bem como proventos de aposentadoria e pensões daqueles que estiverem na ativa, de maneira individualizada. São disponibilizadas também as informações sobre os proventos de aposentadoria dos servidores inativos e dos pensionistas do Estado de Minas Gerais.
+>
+> - Acesse a [Remuneração dos Servidores públicos](http://www.transparencia.mg.gov.br/estado-pessoal/remuneracao-dos-servidores) ativos, inativos e pensionistas, incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+>
+> Nesta seção são disponibilizadas também informações sobre os concursos públicos estaduais, incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+>
+> - Acesse os [Concursos Públicos em Andamento](http://www.planejamento.mg.gov.br/concursos-e-estagios/concursos-publicos), disponíveis na página da Secretaria de Estado de Planejamento e Gestão.
+>
+> - Acesse abaixo a lista dos [Concursos Realizados](http://www.transparencia.mg.gov.br/estado-pessoal/concursos-realizados) pelo próprio órgão/entidade.
 
 **OBSERVAÇÃO:** Na ausência de Concursos Públicos realizados ou em andamento, o órgão ou entidade deverá informar que no momento não existe conteúdo a ser publicado e direcionar para a consulta “Concursos Realizados” do Portal da Transparência e/ou “Concursos Públicos em Andamento” do sítio da SEPLAG.
 
 
+## 3.14 Dados Abertos
 
-## Dados abertos
+### a)	Objetivo:
+- Divulgar o maior número de base de dados em formato aberto para que qualquer pessoa possa livremente acessar, utilizar, modificar e compartilhar para qualquer finalidade, estando sujeita no máximo a indicação da fonte da base de dados.
 
-Deverá ser inserido texto introdutório sobre os dados abertos e link para o Portal da Transparência.
+### b)	Impactos Esperados:
+- Contribuir para o aumento da transparência do governo, criando melhores possibilidades de controle social das ações
+governamentais.
+- Permitir a construção de novas aplicações e conhecimentos pela sociedade.
 
-Sugestão:
+### c)	Legislação:
+- Decreto Federal nº 7.724/2012 – art. 8º, inc. III e IV;
+-	Decreto Estadual nº 45.969/2012 – art. 8º, inc. II e III;
+-	Resolução SEPLAG nº 29/2016 – art. 25, inc. VIII e art. 26, inc. VII.
 
-- *Dados abertos governamentais são os dados públicos, produzidos ou sob a tutela do governo, que são disponibilizados ao cidadão para qualquer fim.*
+### d)	Frequência de atualização:
+-	Periodicamente, verificar o link de acesso ao Portal de Dados Abertos.
 
-- *Acesse o [Portal Dados Abertos](http://www.transparencia.mg.gov.br/dados-abertos) do Governo de Minas Gerais.*
+### e)	Texto Padrão:
 
-Caso o órgão ou entidade possua outras bases de dados em formato aberto, estas poderão ser disponibilizadas no Portal da Transparência ou na própria seção Transparência do órgão ou entidade.
+> Dados abertos governamentais são os dados públicos, produzidos ou sob a tutela do governo, que são disponibilizados ao cidadão em formato bruto e aberto, compreensíveis logicamente, de modo a permitir sua reutilização em aplicações desenvolvidas pela sociedade.
+>
+> O Estado de Minas Gerais, por meio do [Portal Dados Abertos](http://www.transparencia.mg.gov.br/dados-abertos) disponibiliza a sociedade as bases de dados em formato aberto, os quais podem ser utilizados, modificados e compartilhados.
+
+## 3.15 Participação Social
+
+### a)	Objetivo:
+- Criar um local único e padronizado que concentre as informações sobre participação social.
+
+### b)	Impactos Esperados:
+- Fomentar o diálogo com a população e promover a participação social.
+- Permitir a participação da sociedade na construção de políticas públicas.
+
+### c)	Legislação:
+- Lei Federal nº 12.527/2011 – art. 9º, inc. II;
+- Decreto Estadual nº 45.969/2012 – art. 14, §6º.
+
+### d)	Frequência de atualização:
+-	Periodicamente, sempre que surgirem novas informações sobre participação social.
+
+### e)	Texto Padrão:
+
+> Conheça os espaços existentes e as atividades desenvolvidas pelo(a) (NOME DO ÓRGÃO OU ENTIDADE) para fomentar o diálogo com a população e a participação social na construção das políticas públicas.
+>
+> Tópicos que podem ser incluídos nessa seção, de acordo com as especificidades de cada órgão/entidade:
+>
+> - Conselhos e Órgãos colegiados
+> - Conferências
+> - Audências Públicas
+> - Consultas Públicas
+> - Fundos Vinculados
+> - Ações de promoção da Cidadania
+
+**TÓPICO DE DIVULGAÇÃO OPCIONAL**
+
+## 3.16 Convênios de Entrada de Recursos
+
+### a)	Texto Padrão:
+
+> Nesta seção são disponibilizadas informações referentes à transferência de recursos públicos para os órgão e entidades do Estado de Minas Gerais por meio de convênios de entrada.
+>
+> - Acesse os [Convênios de Entrada de Recursos](http://www.transparencia.mg.gov.br/convenios/convenio-entrada), incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
+
+## 3.17 Bens e Serviços
+
+### a)	Texto Padrão:
+
+> Nesta seção são disponibilizados dados da frota de veículos terrestres que estão a serviço do Estado, incluindo informações sobre a manutenções e abastecimentos desses veículos e também informações sobre o patrimônio mobiliário do Estado, incluindo os bens que se encontram em uso ou não, podendo as consultas serem realizadas por órgão ou entidade.
+>
+> - Acesse a listagem dos [Bens Móveis](http://www.transparencia.mg.gov.br/compras-e-patrimonio/patrimonio) do Estado de Minas Gerais.
+>
+> - Acesse a [Frota](http://www.transparencia.mg.gov.br/compras-e-patrimonio/gestao-de-frota) do Estado de Minas Gerais.
 
 # DISPOSITIVOS LEGAIS
 
