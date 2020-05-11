@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # ORGANIZAÇÃO DOS CONTEÚDOS
 
 A divulgação de dados e informações de forma espontânea relativas à Lei de Acesso à Informação deve ser feita em seção específica denominada *Transparência*, e disponibilizada na **página inicial** dos sítios institucionais dos órgãos e entidades. 

@@ -1,50 +1,54 @@
-# 3. DIRETRIZES PARA DISPONIBILIZAÇÃO DOS CONTEÚDOS
+# DIRETRIZES PARA DISPONIBILIZAÇÃO DOS CONTEÚDOS
 
 Todos os itens constantes do menu ***Transparência***  deverão conter um texto explicativo. As sugestões de textos apresentadas poderão ser utilizadas pelos órgãos e entidades que assim desejarem.
 
-## 3.1	Menu Transparência 
+## Menu Transparência 
 
-### a)	Objetivo: 
+### Objetivo: 
 - criar um local único e padronizado que concentrem as informações mínimas e essenciais dos órgãos e entidades do Poder Executivo Estadual para divulgação de maneira ativa, sobretudo daquelas definidas em lei.
 
-### b)	Impactos Esperados:
+### Impactos Esperados:
 -	Diminuir demandas de acesso à informação;
 -	Padronizar a interface de relacionamento com o cidadão;
 -	Aumentar a satisfação da sociedade com o fornecimento de informações íntegras e atualizadas;
 -	Aumentar o controle social.
 
-### c)	Legislação:
+### Legislação:
 - Decreto Estadual nº 45.969/2012 – art. 8º, inc. VI;
 - Resolução SEPLAG nº 29/2016 – art. 9º, inc. II, alínea g.
 
-### d)	Frequência de atualização:
+### Frequência de atualização:
 -	Não se aplica
 
-### e)	Texto Padrão:
+### Texto Padrão:
 
 > Está seção reúne e divulga, de forma espontânea, dados do(a) (NOME DO ÓRGÃO/ENTIDADE) que são de interesse coletivo ou geral com o objetivo de facilitar o acesso à informação pública, conforme determinação da Lei Federal nº 12.527/2011, de 18 de novembro de 2011 e demais legislações que tratam do assunto.
 > 
 > No Menu Transparência estão disponíveis as informações mínimas sobre serviços de informação ao cidadão, informações classificadas e desclassificadas, ações e programas, receitas e despesas, compras e contratos, convênios, repasses e transferências, doações, comodatos e cooperações, pessoal e concursos públicos, acessos aos dados abertos e informações sobre participação social.
 
-## 3.2	Serviço de Informações ao Cidadão 
+## Serviço de Informações ao Cidadão 
 
-### a)	Objetivo: 
+### Objetivo
+
 - Informar ao cidadão sobre como fazer o pedido de acesso à informação e como obter os relatórios estatísticos com a quantidade de pedidos de acesso à informação do órgão e entidade. 
 
-### b)	Impactos Esperados:
+### Impactos Esperados
+
 -	Organizar e facilitar o procedimento de acesso à informação tanto para o cidadão quanto para a Administração Pública.
 
-### c)	Legislação:
+### Legislação
+
 -	Lei Federal nº 12.527/2011 – art. 10 a 14;
 -	Decreto Federal nº 7.724/2012 – art. 9º, 10 e art. 45, inc. III e IV;
 -	Decreto Estadual nº 45.969/2012 – art. 12 e 13, art. 46, inc. III e IV;
 -	Resolução SEPLAG nº 29/2016 – art. 25, inc. V.
 
-### d)	Frequência de atualização:
+### Frequência de atualização
+
 -	Sempre que houver alteração na legislação do e-SIC.
 -	Periodicamente, verificar os links de acesso ao e-SIC
 
-### e)	Texto Padrão:
+### Texto Padrão
 
 > Nesta seção, são divulgadas informações sobre o Serviço de Informação ao Cidadão (e-SIC), pertinentes ao seu funcionamento, localização e dados de contato no âmbito do(a) (NOME DO ÓRGÃO OU ENTIDADE). 
 > 
@@ -59,26 +63,30 @@ Todos os itens constantes do menu ***Transparência***  deverão conter um texto
 > - Telefone
 > - E-mail *
 
-## 3.3 Informações classificadas e desclassificadas
+## Informações classificadas e desclassificadas
 
-### a)	Objetivo: 
+### Objetivo
+
 -	Atender o disposto no art. 45, inc. I e II do Decreto Federal nº 7.724/2012.
 
-### b)	Impactos Esperados:
+### Impactos Esperados
+
 -	Informar ao cidadão o rol de informações classificadas em grau de sigilo
 -	Informar ao cidadão o rol de informações desclassificadas nos últimos 12 meses.
 
-### c)	Legislação:
+### Legislação
+
 -	Lei Federal nº 12.527/2011 – art. 24 e 30;
 -	Decreto Federal nº 7.724/2012 – art. 45, inc. I e II;
 -	Decreto Estadual nº 45.969/2012 – art 46, inc. I e II;
 -	Resolução SEPLAG nº 29/2016 – art. 25, inc. VII e art. 26, inc. VIII.
 
-### d)	Frequência de atualização:
+### Frequência de atualização
+
 -	Anualmente: em 1º de junho.
 -	E sempre que houver alteração nas informações classificadas e desclassificadas.
 
-### e)	Texto Padrão:
+### Texto Padrão
 
 > Espaço reservado para a divulgação das informações do(a) (NOME DO ÓRGÃO/ENTIDADE) classificadas ou desclassificadas nos graus de sigilo definidos no art. 24 da Lei nº 12.527/2011, em cumprimento ao disposto nos incisos I e II, do art. 45 do Decreto Federal nº 7.724/2012.
 > 
@@ -90,27 +98,31 @@ Todos os itens constantes do menu ***Transparência***  deverão conter um texto
 > O (a) <nome do órgão/entidade> não teve informações classificadas ou desclassificadas nos graus de sigilo reservada, secreta e ultrassecreta, definidos no art. 23 da Lei Federal nº 12.527/11 (Lei de Acesso à Informação), no período (informar a última data de atualização)
 
  
-## 3.4 Programas e Ações
+## Programas e Ações
 
-### a)	Objetivo: 
+### Objetivo
+
 - Divulgar todos os instrumentos de planejamento, bem como a relação dos programas e ações do órgão ou entidade juntamente com informações que permita o seu acompanhamento, conforme orientações do inc. V, §1º, art. 8º da Lei Federal nº12.527/2011.
 
-### b)	Impactos Esperados:
+### Impactos Esperados
+
 -	Permitir o acompanhamento por parte do cidadão dos programas e ações do órgão ou entidade, por meio da disponibilização das informações referentes aos programas e ações vigentes do órgão/entidade, assim como sobre os responsáveis pelos programas, e relatórios que permitam o acompanhamento de suas metas físicas e financeiras.
 -	Informar ao cidadão os instrumentos de planejamento: PPAG, LDO, LOA.
 
-### c)	Legislação:
+### Legislação
+
 -	Lei Federal nº 12.527/2011 – art. 8, §1º, inc. V;
 -	Decreto Federal nº 7.724/2012 – art. 7º, §3º, inc. II;
 -	Decreto Estadual nº 45.969/2012 – art. 7º, inc. III e art. 8º, inc. VII;
 -	Resolução SEPLAG nº 29/2016 – art. 25, inc. II e art. 26, inc. II.
 
-### d)	Frequência de atualização:
+### Frequência de atualização
+
 -	Anualmente: para a legislação que trata dos instrumentos de planejamento (PPAG, LDO, LOA).
 -	Bimestralmente: para as informações sobre Ações e Programas.
 -	Periodicamente, verificar os links de acesso ao Portal da Transparência
 
-### e)	Texto Padrão:
+### Texto Padrão
 
 > Nesta seção são disponibilizadas as informações dos programas e ações vigentes do(a) (NOME DO ÓRGÃO/ENTIDADE) no ano de XXXX, bem como os instrumentos de planejamento e orçamento do Governo do Estado de Minas Gerais: PPAG, LDO e LOA.
 > 
@@ -128,24 +140,28 @@ Todos os itens constantes do menu ***Transparência***  deverão conter um texto
 >
 > Acesse a [LOA](http://transparencia.mg.gov.br/planejamento-e-resultados) na íntegra e documentos relacionados.
 
-## 3.5	Obras Públicas
+## Obras Públicas
 
-### a)	Objetivo: 
+### Objetivo
+
 -	Cumprir o que determina a Lei Estadual nº 23.386/2019 referente a divulgação de informações pelos órgãos e entidades, em seus sítios eletrônicos sobre as obras públicas cuja **execução** esteja em andamento.
 
-### b)	Impactos Esperados:
+### Impactos Esperados
+
 -	Permitir o acompanhamento por parte do cidadão das obras públicas em andamento, favorecendo a fiscalização da atividade governamental.
 
-### c)	Legislação:
+### Legislação
+
 -	Lei Federal nº 12.527/2011 – art. 8, §1º, inc. V;
 -	Decreto Federal nº 7.724/2012 – art. 7º, §3º, inc. II;
 -	Lei Estadual nº 23.386/2019.
 
-### d)	Frequência de atualização:
+### Frequência de atualização
+
 -	Imediatamente após o início da obra: cópia do contrato e dos termos aditivos, e cópia do projeto básico e do projeto executivo da obra;
 -	Trimestralmente: relatório de execução da obra, contendo fotografias, cronograma previsto e realizado, medições realizadas e pagamentos autorizados e efetuados.
 
-### e)	Texto Padrão:
+### Texto Padrão
 
 > Nesta seção são disponibilizadas as informações sobre as obras públicas em andamento no(a) (NOME DO ÓRGÃO/ENTIDADE).
 > 
@@ -164,24 +180,26 @@ Todos os itens constantes do menu ***Transparência***  deverão conter um texto
 > - Relatório Trimestral (número e link para acesso ao relatório)
 
 
-## 3.6 Despesas e receitas
+## Despesas e receitas
 
-### a)	Objetivo: 
+### Objetivo
+
 -	Disponibilizar informações detalhadas e atualizadas diariamente sobre a execução orçamentária e financeira, bem como sobre suas receitas previstas e arrecadadas.
 
-### b)	Impactos Esperados:
+### Impactos Esperados
+
 -	Permitir o acompanhamento diário da evolução das receitas e despesas do Estado de Minas Gerais.
 
-### c)	Legislação:
+### Legislação
 -	Lei Federal nº 12.527/2011 – art. 8, §1º, inc. III;
 -	Decreto Federal nº 7.724/2012 – art. 7º, §3º, inc. IV;
 -	Decreto Estadual nº 45.969/2012 – art. 7º, inc. V;
 -	Resolução SEPLAG nº 29/2016 – art. 26, inc. III.
 
-### d)	Frequência de atualização:
+### Frequência de atualização
 -	Periodicamente, verificar os links de acesso ao Portal da Transparência.
 
-### e)	Texto Padrão:
+### Texto Padrão
 
 > Nesta seção são disponibilizadas informações sobre a previsão e arrecadação da receita pública e execução orçamentária e financeira do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 >
@@ -196,22 +214,26 @@ Todos os itens constantes do menu ***Transparência***  deverão conter um texto
 **OBSERVAÇÃO:** Na ausência de receitas arrecadadas pelo próprio órgão/entidade, o órgão ou entidade deverá informar que no momento não existe conteúdo a ser publicado e direcionar para a consulta “Receita” do Portal da Transparência.
 
 
-## 3.7	MULTAS (TÓPICO ESPECÍFICO PARA DETRAN/MG)
+## MULTAS (TÓPICO ESPECÍFICO PARA DETRAN/MG)
 
-### a)	Objetivo: 
+### Objetivo
+
 -	Cumprir o que preceitua a Lei Estadual nº 23.573/2020, que determina ao DETRAN/MG, a divulgação trimestral, em seu sítio eletrônico e no Portal da Transparência, os valores arrecadados com multas de trânsito, bem como a destinação desses recursos.
 
-### b)	Impactos Esperados:
+### Impactos Esperados
+
 -	Permitir que a sociedade acompanhe a evolução dos valores arrecadados com multas de trânsito e a aplicação desses recursos pelo Estado de Minas Gerais.
 
-### c)	Legislação:
+### Legislação
+
 -	Lei Estadual nº 23.573/2020.
 
-### d)	Frequência de atualização:
+### Frequência de atualização
+
 -	Trimestralmente (janeiro, abril, julho, outubro) divulgar no sítio eletrônico do DETRAN/MG os valores arrecadados com multas de trânsito e a aplicação desses recursos;
 - Trimestralmente (janeiro, abril, julho, outubro) enviar a planilha em formato CSV para o e-mail [transparencia@cge.mg.gov.br](), da Superintendência Central de Transparência para publicação no Portal de Dados Abertos. 
 
-### e)	Texto Padrão:
+### Texto Padrão
 
 > Nesta seção são disponibilizadas informações sobre os valores arrecadados pelo Departamento de Trânsito de Minas Gerais – DETRAN/MG com multas de trânsito, bem como a destinação desses recursos.
 >
@@ -219,22 +241,26 @@ Todos os itens constantes do menu ***Transparência***  deverão conter um texto
 >
 > - Acesso aqui as informações sobre a destinação dos recursos arrecadados com multas de trânsito (link para acesso ou pdf do documento). 
 
-## 3.8	CRÉDITOS TRIBUTÁRIOS (TÓPICO ESPECÍFICO PARA SEF/MG)
+## CRÉDITOS TRIBUTÁRIOS (TÓPICO ESPECÍFICO PARA SEF/MG)
 
-### a)	Objetivo: 
+### Objetivo
+
 -	Cumprir o que determina o art. 4º da Lei Estadual nº 23.510/2019 de divulgar semestralmente relatório referente às dívidas e aos créditos tributários compensados, contendo: a listagem das dívidas compensadas, os valores de ICMS compensados, a previsão para liquidação da dívida, o quantitativo da dívida compensada pelos créditos tributários vincendos com as respectivas origens, o montante correspondente à parcela da arrecadação do ICMS pertencente aos munícipios e o montante correspondente à parcela destinada ao FUNDEP.
 
-### b)	Impactos Esperados:
+### Impactos Esperados
+
 -	Permitir que a sociedade acompanhe a evolução das dívidas e dos créditos tributários compensados. 
 
-### c)	Legislação:
+### Legislação
+
 -	Lei Estadual nº 23.573/2020 – art. 4º.
 
-### d)	Frequência de atualização:
+### Frequência de atualização
+
 -	Semestralmente, em junho e dezembro de cada ano: divulgar no sítio eletrônico da SEF/MG;
 - Semestralmente, em junho e dezembro de cada ano: enviar a planilha em formato CSV, para o e-mail [transparencia@cge.mg.gov.br](), da Superintendência Central de Transparência para publicação no Portal de Dados Abertos. 
 
-### e)	Texto Padrão:
+### Texto Padrão
 
 > Nesta seção são disponibilizadas informações sobre as dívidas e os créditos tributários compensados pelo Estado de Minas Gerais.
 >
@@ -245,28 +271,32 @@ Todos os itens constantes do menu ***Transparência***  deverão conter um texto
 > - Acesse aqui o montante correspondente à parcela da arrecadação do ICMS pertencente aos munícipio
 > - Acesse aqui o montante correspondente à parcela destinada ao FUNDEP
 
-## 3.9 Compras e Contratos
+## Compras e Contratos
 
-### a)	Objetivo: 
+### Objetivo
+
 -	Divulgar informações sobre os processos de compras para aquisição de materiais e serviços nos órgãos e entidades do Estado de Minas Gerais, bem como informações sobre os contratos celebrados entre o Estado e terceiros, incluindo os atos relativos a dispensa ou inexigibilidade de licitação.
 
-### b)	Impactos Esperados:
+### Impactos Esperados
+
 -	Permitir o acompanhamento da execução dos contratos firmados pela Administração Pública;
 -	Ampliar a participação da sociedade nos procedimentos licitatórios.
 
-### c)	Legislação:
+### Legislação
+
 -	Lei Federal nº 12.527/2011 – art. 8, §1º, inc. IV;
 -	Decreto Federal nº 7.724/2012 – art. 7º, §3º, inc. V;
 -	Decreto Estadual nº 45.969/2012 – art. 7º, inc. VI;
 -	Resolução SEPLAG nº 29/2016 – art. 25, inc. IV e art. 26, inc. IV;
 -	Lei Estadual nº 23.569/2020 – art. 1º, inc. I e art. 2º.
 
-### d)	Frequência de atualização:
+### Frequência de atualização
+
 -	Sempre que novas licitações foram publicadas;
 -	Sempre que novos contratos forem assinados;
 -	Periodicamente, verificar os links de acesso ao Portal da Transparência e ao Portal de Compras.
 
-### e)	Texto Padrão:
+### Texto Padrão
 
 > Nesta seção são disponibilizadas informações relativas aos processos de compras estaduais para aquisição de materiais e serviços, bem como os contratos firmados entre o Estado e terceiros.
 > 
@@ -278,21 +308,25 @@ Todos os itens constantes do menu ***Transparência***  deverão conter um texto
 > 
 > Consulte e emita o [Certificado de Regularidade]( https://www.cagef.mg.gov.br/fornecedor-web/br/gov/prodemge/seplag/fornecedor/publico/index.zul) para Participar de Licitações Públicas no âmbito do Poder Executivo do Estado de Minas Gerais.
 
-## 3.10	PROCEDIMENTOS LICITATÓRIOS ENVIADOS PARA O TCE/MG (TÓPICO ESPECÍFICO)
+## PROCEDIMENTOS LICITATÓRIOS ENVIADOS PARA O TCE/MG (TÓPICO ESPECÍFICO)
 
-### a)	Objetivo: 
+### Objetivo
+
 -	Cumprir o disposto no art. 1º da Lei Estadual nº 23.569/2020, que determina a publicação em sítio eletrônico do órgão ou entidade dos atos administrativos e documentos relativos a procedimentos licitatórios que, por determinação legal ou decisão específica do Tribunal de Contas a estes devam ser encaminhados.
 
-### b)	Impactos Esperados:
+### Impactos Esperados
+
 -	Permitir o acompanhamento pela sociedade dos procedimentos licitatórios enviados ao TCE/MG.
 
-### c)	Legislação:
+### Legislação
+
 -	Lei Estadual nº 23.569/2020 – art. 1º, caput.
 
-### d)	Frequência de atualização:
+### Frequência de atualização
+
 -	Sempre que forem solicitados pelo Tribunal de Contas atos administrativos e documentos relativos a procedimentos licitatórios.
 
-### e)	Texto Padrão:
+### Texto Padrão
 
 > Nesta seção são disponibilizadas informações relativas aos atos e procedimentos licitatórios enviados ao Tribunal de Contas do Estado de Minas Gerais, nos termos do art. 1º da Lei Estadual nº 23.569/2020.
 >
@@ -300,29 +334,33 @@ Todos os itens constantes do menu ***Transparência***  deverão conter um texto
 >    - Lista dos documentos encaminhados, com link para acesso ou pdf do documento.
 
 
-## 3.11 Convênios, Repasses e Transferências
+## Convênios, Repasses e Transferências
 
-### a)	Objetivo: 
+### Objetivo
+
 - Divulgar informações sobre os convênios, repasses e transferências de recursos por meio de convênios de saída, termos de colaboração e fomento, termos de parceria, resoluções e outros instrumentos congêneres;
 -	Divulgar informações sobre concessões e permissões, nos termos do inc. III, parágrafo único, art. 1º da Lei Estadual nº 23.569/2020.
 
-### b)	Impactos Esperados:
+### Impactos Esperados
+
 - Permitir que a sociedade acompanhe os registros de repasses e transferências de recursos financeiros;
 - Permitir que a sociedade acompanhe as concessões e permissões firmadas pelo Estado de Minas Gerais.
 
-### c)	Legislação:
+### Legislação
+
 - Lei Federal nº 12.527/2011 – art. 8, §1º, inc. II;
 - Decreto Federal nº 7.724/2012 – art. 7º, §3º, inc. III;
 - Decreto Estadual nº 45.969/2012 – art. 7º, inc. IV;
 - Resolução SEPLAG nº 29/2016 – art. 25, inc. III e art. 26, inc. V;
 - Lei Estadual nº 23.569/2020 – art. 1º, inc. II e III.
 
-### d)	Frequência de atualização:
+### Frequência de atualização
+
 -	Periodicamente, verificar o link de acesso ao Portal da Transparência, para os convênios, repasses e transferências disponíveis na consulta de Convênios/Parcerias de Saída de Recursos.
 -	Sempre que forem celebrados convênios, repasses e transferências de recursos financeiros que não estejam incluídos na consulta de Convênios/Parcerias de Saída de Recursos do Portal da Transparência.
 -	Periodicamente, verificar o link de acesso ao Portal das PPP.
 
-### e)	Texto Padrão:
+### Texto Padrão
 
 > Nesta seção são disponibilizadas informações referentes às transferências de recursos públicos realizados pelo Estado por meio de convênios de saída, termos de colaboração e fomento, termos de parceria, resoluções e outros instrumentos congêneres com os órgãos ou entidades públicas ou entidades privadas sem fins lucrativos.
 > 
@@ -337,50 +375,58 @@ Todos os itens constantes do menu ***Transparência***  deverão conter um texto
 **OBSERVAÇÃO:** Na ausência de convênios e parcerias de saída de recursos, o órgão ou entidade deverá informar que no momento não existe conteúdo para ser publicado e direcionar para a consulta “Convênios/Parcerias de Saída de Recursos” do Portal da Transparência.
 
 
-## 3.12 Doações, Comodatos e Cooperações (TÓPICO ESPECÍFICO)
+## Doações, Comodatos e Cooperações (TÓPICO ESPECÍFICO)
 
-### a)	Objetivo: 
+### Objetivo
+
 - Cumprir o disposto no art. 18 do Decreto Estadual nº 47.611/2019, que determina a publicação em sítio eletrônico do órgão ou entidade dos programas, projetos e relações das doações e comodatos celebrados, contendo informações sobre: nome do doador ou comodante; CNPJ ou CPF do doador ou comodante; ojbeto da doação ou comodato e, quando for o caso, seu quantitativo; a vigência do comodato; o valor estimado do bem ou serviço doado ou oferecido em comodato.
 
-### b)	Impactos Esperados:
+### Impactos Esperados
+
 - Permitir que a sociedade acompanhe as doações de bens e serviços ao Estado de Minas Gerais.
 - Falicitar a localização dos registros de doações de bens e serviços.
 
-### c)	Legislação:
+### Legislação
+
 - Decreto Estadual nº 47.611/2019 - art. 17 e 18.
 
-### d)	Frequência de atualização:
+### Frequência de atualização
+
 -	Sempre que forem recebidas doações ou comodatos pelos órgãos/entidades, divulgar no próprio sítio eletrônico;
 - Sempre que forem recebidas doações ou comodatos, enviar a planilha em formato CSV para o e-mail transparencia@cge.mg.gov.br, para a Superintendência Central de Transparência para publicação em formato aberto. 
 
-### e)	Texto Padrão:
+### Texto Padrão
 
 > Nesta seção são disponibilizadas a relação das doações e comodatos para o Governo de Minas Gerais, em consonância com o art. 18 do Decreto nº 47.611/2019. 
 > 
 > - Acesse aqui a relação das doações e comodatos para o Governo de Minas Gerais, por meio do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 
 
-## 3.13 Pessoal
+## Pessoal
 
-### a)	Objetivo: 
+### Objetivo
+
 - Divulgar a remuneração e o subsídio recebidos por ocupante de cargo, posto, graduação, função e emprego público, incluindo auxílios, ajudas de custo, jetons e quaisquer outras vantagens pecuniárias, bem como proventos de aposentadoria e pensões daqueles que estiverem na ativa, de maneira individualizada.
 - Divulgar as informações sobre os proventos de aposentadoria dos servidores inativos e de pensões pagas pelo Estado de Minas Gerais.
 - Divulgar a íntegra dos editais de concursos públicos para provimentos de cargos e a relação dos aprovados em concurso público.
 
-### b)	Impactos Esperados:
+### Impactos Esperados
+
 - Permitir o acesso as informações sobre os gastos de pessoal do Estado de Minas Gerais com os servidores ativos, inativos e com pensionistas.
 - Permitir o acompanhamento dos concursos públicos realizados pelo Estado de Minas Gerais e as suas nomeações.
 
-### c)	Legislação:
-- Decreto Federal nº 7.724/2012 – art. 7º, §3º, inc. VI;
--	Decreto Estadual nº 45.969/2012 – art. 4º, inc. VIII;
--	Resolução SEPLAG nº 29/2016, art. 26, inc. VI;
--	Resolução SEPLAG nº 29/2016, art. 26, inc. VI conjugado com o anexo IV (Texto Padrão Menu Transparência);
+### Legislação
 
-### d)	Frequência de atualização:
+- Decreto Federal nº 7.724/2012 – art. 7º, §3º, inc. VI;
+- Decreto Estadual nº 45.969/2012 – art. 4º, inc. VIII;
+- Resolução SEPLAG nº 29/2016, art. 26, inc. VI;
+- Resolução SEPLAG nº 29/2016, art. 26, inc. VI conjugado com o anexo IV (Texto Padrão Menu Transparência);
+
+### Frequência de atualização
+
 -	Periodicamente, verificar os links de acesso ao Portal da Transparência;
 
-### e)	Texto Padrão:
+### Texto Padrão
 
 > Nesta seção são disponibilizadas informações (nome, matricula, cargo, lotação e remuneração) sobre os servidores públicos ativos da administração direta, autárquica e fundacional, bem como proventos de aposentadoria e pensões daqueles que estiverem na ativa, de maneira individualizada. São disponibilizadas também as informações sobre os proventos de aposentadoria dos servidores inativos e dos pensionistas do Estado de Minas Gerais.
 >
@@ -395,47 +441,55 @@ Todos os itens constantes do menu ***Transparência***  deverão conter um texto
 **OBSERVAÇÃO:** Na ausência de Concursos Públicos realizados ou em andamento, o órgão ou entidade deverá informar que no momento não existe conteúdo a ser publicado e direcionar para a consulta “Concursos Realizados” do Portal da Transparência e/ou “Concursos Públicos em Andamento” do sítio da SEPLAG.
 
 
-## 3.14 Dados Abertos
+## Dados Abertos
 
-### a)	Objetivo: 
+### Objetivo
+
 - Divulgar o maior número de base de dados em formato aberto para que qualquer pessoa possa livremente acessar, utilizar, modificar e compartilhar para qualquer finalidade, estando sujeita no máximo a indicação da fonte da base de dados.
 
-### b)	Impactos Esperados:
+### Impactos Esperados
+
 - Contribuir para o aumento da transparência do governo, criando melhores possibilidades de controle social das ações
 governamentais.
 - Permitir a construção de novas aplicações e conhecimentos pela sociedade.
 
-### c)	Legislação:
+### Legislação
+
 - Decreto Federal nº 7.724/2012 – art. 8º, inc. III e IV;
 -	Decreto Estadual nº 45.969/2012 – art. 8º, inc. II e III;
 -	Resolução SEPLAG nº 29/2016 – art. 25, inc. VIII e art. 26, inc. VII.
 
-### d)	Frequência de atualização:
+### Frequência de atualização
+
 -	Periodicamente, verificar o link de acesso ao Portal de Dados Abertos.
 
-### e)	Texto Padrão:
+### Texto Padrão
 
 > Dados abertos governamentais são os dados públicos, produzidos ou sob a tutela do governo, que são disponibilizados ao cidadão em formato bruto e aberto, compreensíveis logicamente, de modo a permitir sua reutilização em aplicações desenvolvidas pela sociedade.
 >
 > O Estado de Minas Gerais, por meio do [Portal Dados Abertos](http://www.transparencia.mg.gov.br/dados-abertos) disponibiliza a sociedade as bases de dados em formato aberto, os quais podem ser utilizados, modificados e compartilhados.
 
-## 3.15 Participação Social
+## Participação Social
 
-### a)	Objetivo: 
+### Objetivo
+
 - Criar um local único e padronizado que concentre as informações sobre participação social.
 
-### b)	Impactos Esperados:
+### Impactos Esperados
+
 - Fomentar o diálogo com a população e promover a participação social.
 - Permitir a participação da sociedade na construção de políticas públicas.
 
-### c)	Legislação:
+### Legislação
+
 - Lei Federal nº 12.527/2011 – art. 9º, inc. II;
 - Decreto Estadual nº 45.969/2012 – art. 14, §6º.
 
-### d)	Frequência de atualização:
+### Frequência de atualização
+
 -	Periodicamente, sempre que surgirem novas informações sobre participação social.
 
-### e)	Texto Padrão:
+### Texto Padrão
 
 > Conheça os espaços existentes e as atividades desenvolvidas pelo(a) (NOME DO ÓRGÃO OU ENTIDADE) para fomentar o diálogo com a população e a participação social na construção das políticas públicas.
 >
@@ -450,17 +504,17 @@ governamentais.
 
 **TÓPICO DE DIVULGAÇÃO OPCIONAL**
 
-## 3.16 Convênios de Entrada de Recursos
+## Convênios de Entrada de Recursos
 
-### a)	Texto Padrão:
+### Texto Padrão:
 
 > Nesta seção são disponibilizadas informações referentes à transferência de recursos públicos para os órgão e entidades do Estado de Minas Gerais por meio de convênios de entrada.
 >
 > - Acesse os [Convênios de Entrada de Recursos](http://www.transparencia.mg.gov.br/convenios/convenio-entrada), incluindo os do(a) (NOME DO ÓRGÃO OU ENTIDADE).
 
-## 3.17 Bens e Serviços
+## Bens e Serviços
 
-### a)	Texto Padrão:
+### Texto Padrão:
 
 > Nesta seção são disponibilizados dados da frota de veículos terrestres que estão a serviço do Estado, incluindo informações sobre a manutenções e abastecimentos desses veículos e também informações sobre o patrimônio mobiliário do Estado, incluindo os bens que se encontram em uso ou não, podendo as consultas serem realizadas por órgão ou entidade.
 > 
